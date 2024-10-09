@@ -1,0 +1,49 @@
+name: open-webui-dev
+
+services:
+  frontend:
+    build:
+      context: .
+      target: build
+    command: ["npm", "run", "dev"]  # Use your frontend dev tool
+    depends_on:
+      - backend
+    extra_hosts:
+      - host.docker.internal:host-gateway
+    ports:
+      - "3000:5173"
+    volumes:
+      - ./src:/app/src  # Bind mount for live-reloading
+      - ./node_modules:/app/node_modules  # Avoid issues with node_modules in Docker
+
+  backend:
+    build:
+      context: .
+      target: base
+    command: ["bash", "dev.sh"]  # Adjust your backend script for live reload
+    env_file: ".env"
+    environment:
+      - ENV=dev
+      - WEBUI_AUTH=False
+      - 'OLLAMA_BASE_URL=http://ollama:11434'
+    volumes:
+      - ./backend:/app/backend  # Sync backend files with the host
+      - data:/app/backend/data
+    extra_hosts:
+      - host.docker.internal:host-gateway
+    ports:
+      - "8080:8080"
+    restart: always
+
+  ollama:
+    volumes:
+      - ollama:/root/.ollama
+    container_name: ollama
+    pull_policy: always
+    tty: true
+    restart: unless-stopped
+    image: ollama/ollama:${OLLAMA_DOCKER_TAG-latest}
+
+volumes:
+  data: {}
+  ollama: {}
