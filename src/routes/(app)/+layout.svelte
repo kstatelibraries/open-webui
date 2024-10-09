@@ -190,9 +190,10 @@
 				showChangelog.set(localStorage.version !== $config.version);
 			}
 
-			if ($page.url.searchParams.get('temporary-chat') === 'true') {
-				temporaryChatEnabled.set(true);
-			}
+			// if ($page.url.searchParams.get('temporary-chat') === 'true') {
+			// 	temporaryChatEnabled.set(true);
+			// }
+			temporaryChatEnabled.set(true);
 
 			// Check for version updates
 			if ($user.role === 'admin') {
