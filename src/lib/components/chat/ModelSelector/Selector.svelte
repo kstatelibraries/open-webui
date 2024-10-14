@@ -524,7 +524,7 @@
 				<hr class="border-gray-100 dark:border-gray-800" />
 
 				<div class="flex items-center mx-2 my-2">
-					<!-- <button
+					<button
 						class="flex justify-between w-full font-medium line-clamp-1 select-none items-center rounded-button py-2 px-3 text-sm text-gray-700 dark:text-gray-100 outline-none transition-all duration-75 hover:bg-gray-100 dark:hover:bg-gray-800 rounded-lg cursor-pointer data-[highlighted]:bg-muted"
 						on:click={async () => {
 							temporaryChatEnabled.set(!$temporaryChatEnabled);
@@ -554,9 +554,7 @@
 						<div>
 							<Switch state={$temporaryChatEnabled} />
 						</div>
-					</button>
-					No more option to disable temp chats 
-					-->
+					</button>					
 				</div>
 			{/if}
 
