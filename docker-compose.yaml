@@ -2,8 +2,6 @@ services:
   open-webui:
     build:
       context: .
-      args:
-        OLLAMA_BASE_URL: '127.0.0.1'
       dockerfile: Dockerfile
     image: ksul-openwebui
     container_name: open-webui
@@ -19,3 +17,11 @@ services:
       - host.docker.internal:host-gateway
     restart: unless-stopped
 
+  # audio_tools:
+  #   image: ghcr.io/rsxdalv/tts-generation-webui:main
+  #   container_name: audio_tools
+  #   volumes:
+  #     - ../audio_tools/data/outputs:/app/tts-generation-webui/outputs
+  #   ports:
+  #     - 9000:3000
+  #     - 7770:7770
