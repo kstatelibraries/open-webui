@@ -3,6 +3,7 @@
 USER="innovationlab"
 REMOTE_HOST="10.130.110.20"
 
+ssh -L 12000:localhost:7860 innovationlab@10.130.110.20
 
 
 # Spawn the first SSH connection (port 12000 local to 11434 remote)
