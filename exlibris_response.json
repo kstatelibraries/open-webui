@@ -1,0 +1,4114 @@
+{
+    "info": {
+        "totalResultsLocal": 1,
+        "totalResultsPC": 1399,
+        "total": 1400,
+        "first": 1,
+        "last": 10
+    },
+    "highlights": {
+        "snippet": [
+            "cooking",
+            "Mexican",
+            "Pina's"
+        ],
+        "title": [
+            "Mexican",
+            "mexican cooking pinas",
+            "Piña",
+            "Cooking",
+            "cooking"
+        ],
+        "termsUnion": [
+            "cooking",
+            "Mexican",
+            "Pina's",
+            "Cooking",
+            "Piña",
+            "mexican cooking pinas",
+            "Piña"
+        ],
+        "subject": [
+            "Cooking",
+            "Mexican"
+        ],
+        "toc": [
+            "Piña"
+        ]
+    },
+    "docs": [
+        {
+            "pnx": {
+                "links": {
+                    "linktohtml": [
+                        "$$Uhttps://www.proquest.com/docview/2507336590?pq-origsite=primo&accountid=11789$$EHTML$$P50$$Gproquest$$Hfree_for_read"
+                    ],
+                    "openurlfulltext": [
+                        "$$Topenurlfull_article"
+                    ],
+                    "thumbnail": [
+                        "$$Tsyndetics_thumb_exl"
+                    ],
+                    "openurl": [
+                        "$$Topenurl_article"
+                    ]
+                },
+                "search": {
+                    "description": [
+                        "The nutritional, cooking and technological properties of the Tepary bean (TB) cultivated in Mexican northeast comparing to two common beans varieties (Pinto Americano and Black Jamapa) were evaluated in this study. Nutritional parameters evaluated of TB resulted significantly different from common beans varieties analysed, except lipid fraction. Cooking times of soaked (4 and 8 h) and non-soaked varieties varied significantly; TB shows between 55.1–80.49 min by cooking time. The textural profile analysis (TPA) of TB showed a significant reduction of hardness, chewiness and adhesiveness in soaked compared to non-soaked. In addition, TB presented a similar behaviour to Pinto Americano in TPA non-soaked and cooked and soaked 8h and cooked, except to adhesiveness. Technological properties of TB and resistant and non-resistant starch content showed significant differences between species. Due to, TB has nutritional, cooking and technological properties comparable to other edible legumes as common bean, mainly Pinto Americano variety."
+                    ],
+                    "rsrctype": [
+                        "article"
+                    ],
+                    "creationdate": [
+                        "2019"
+                    ],
+                    "sourceid": [
+                        "BENPR",
+                        "DOA"
+                    ],
+                    "recordtype": [
+                        "article"
+                    ],
+                    "recordid": [
+                        "eNo9kdFr2zAQxs3YYCHNa58Fe1kf3NxJlmU_jrC0HWk2WPssFPncKHhWKsmj_e-nNGUHx4mP43en-4riEuEaFee4FAKXHFCVqx_r3x-KGTYgy1ag-pjfHHmZBfhcLGI8wCkUyLqeFX47peCS86MZmBk7lsjuRz_4J2ezcgz-SCE5isz37IGOJryyHZmRff21N5H8MEVm7JRc7wc3xStmpyG5vyZRx9zI7uklc0a29SHtycR0UXzqzRBp8V7nxeP6-8Pqttz8vLlbfduUViiRyraysq85NPKUllAR5QKAvewABPBWNrumBiU6Q1UHO6rJoqmw37WAJObF3ZnbeXPQx-D-5M21N06_CT48aZP_ZQfSGVtxANv1DVQKlWmbjBCAEiU1ts6sL2dWvsbzRDHpg59CPljUXOYNRC1byF3X5y4bfIyB-v9TEfSbRzp7pE8e6ZNH4h8sjIPU"
+                    ],
+                    "scope": [
+                        "AAYXX",
+                        "CITATION",
+                        "3V.",
+                        "7X2",
+                        "8FE",
+                        "8FH",
+                        "8FK",
+                        "ABUWG",
+                        "AFKRA",
+                        "ATCPS",
+                        "AZQEC",
+                        "BENPR",
+                        "BHPHI",
+                        "CCPQU",
+                        "DWQXO",
+                        "HCIFZ",
+                        "M0K",
+                        "PIMPY",
+                        "PQEST",
+                        "PQQKQ",
+                        "PQUKI",
+                        "PRINS",
+                        "DOA"
+                    ],
+                    "title": [
+                        "Nutritional and technological properties of Tepary bean (Phaseolus acutifolius) cultivated in Mexican Northeast",
+                        "Czech Journal of Food Sciences"
+                    ],
+                    "fulltext": [
+                        "true"
+                    ],
+                    "startdate": [
+                        "20190101"
+                    ],
+                    "enddate": [
+                        "20190101"
+                    ],
+                    "creator": [
+                        "Heredia-Rodríguez, Laura",
+                        "Gaytán-Martínez, Marcela",
+                        "Morales-Sánchez, Eduardo",
+                        "Garza-Juárez, Aurora de Jesús",
+                        "Urias-Orona, Vania",
+                        "González-Martínez, Blanca Edelia",
+                        "López-Cabanillas Lomelí, Manuel",
+                        "Vázquez-Rodríguez, Jesús Alberto"
+                    ],
+                    "subject": [
+                        "Beans",
+                        "Cooking",
+                        "Legumes",
+                        "Lipids",
+                        "Starch",
+                        "Vegetables"
+                    ],
+                    "issn": [
+                        "1212-1800",
+                        "1805-9317"
+                    ],
+                    "general": [
+                        "Czech Academy of Agricultural Sciences (CAAS)",
+                        "Czech Academy of Agricultural Sciences"
+                    ],
+                    "creatorcontrib": [
+                        "Heredia-Rodríguez, Laura",
+                        "Gaytán-Martínez, Marcela",
+                        "Morales-Sánchez, Eduardo",
+                        "Garza-Juárez, Aurora de Jesús",
+                        "Urias-Orona, Vania",
+                        "González-Martínez, Blanca Edelia",
+                        "López-Cabanillas Lomelí, Manuel",
+                        "Vázquez-Rodríguez, Jesús Alberto"
+                    ]
+                },
+                "display": {
+                    "description": [
+                        "The nutritional, cooking and technological properties of the Tepary bean (TB) cultivated in Mexican northeast comparing to two common beans varieties (Pinto Americano and Black Jamapa) were evaluated in this study. Nutritional parameters evaluated of TB resulted significantly different from common beans varieties analysed, except lipid fraction. Cooking times of soaked (4 and 8 h) and non-soaked varieties varied significantly; TB shows between 55.1–80.49 min by cooking time. The textural profile analysis (TPA) of TB showed a significant reduction of hardness, chewiness and adhesiveness in soaked compared to non-soaked. In addition, TB presented a similar behaviour to Pinto Americano in TPA non-soaked and cooked and soaked 8h and cooked, except to adhesiveness. Technological properties of TB and resistant and non-resistant starch content showed significant differences between species. Due to, TB has nutritional, cooking and technological properties comparable to other edible legumes as common bean, mainly Pinto Americano variety."
+                    ],
+                    "oa": [
+                        "free_for_read"
+                    ],
+                    "language": [
+                        "eng ; cze ; slo"
+                    ],
+                    "title": [
+                        "Nutritional and technological properties of Tepary bean (Phaseolus acutifolius) cultivated in Mexican Northeast"
+                    ],
+                    "creator": [
+                        "Heredia-Rodríguez, Laura ; Gaytán-Martínez, Marcela ; Morales-Sánchez, Eduardo ; Garza-Juárez, Aurora de Jesús ; Urias-Orona, Vania ; González-Martínez, Blanca Edelia ; López-Cabanillas Lomelí, Manuel ; Vázquez-Rodríguez, Jesús Alberto"
+                    ],
+                    "subject": [
+                        "Beans ; Cooking ; Legumes ; Lipids ; Starch ; Vegetables"
+                    ],
+                    "lds50": [
+                        "peer_reviewed"
+                    ],
+                    "source": [
+                        "Directory of Open Access Journals",
+                        "ProQuest Central"
+                    ],
+                    "type": [
+                        "article"
+                    ],
+                    "rights": [
+                        "2019. This work is published under https://www.agriculturejournals.cz/web/about/ (the “License”). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License."
+                    ],
+                    "keyword": [
+                        "ethnical crops ; Properties (attributes) ; technological properties ; texture profile analysis"
+                    ],
+                    "identifier": [
+                        "ISSN: 1212-1800",
+                        "EISSN: 1805-9317",
+                        "DOI: 10.17221/331/2017-CJFS"
+                    ],
+                    "ispartof": [
+                        "Czech Journal of Food Sciences, 2019-01, Vol.37 (1), p.62-68"
+                    ],
+                    "publisher": [
+                        "Prague: Czech Academy of Agricultural Sciences (CAAS)"
+                    ],
+                    "snippet": [
+                        "The nutritional, cooking and technological properties of the Tepary bean (TB) cultivated in Mexican northeast comparing to two common beans varieties..."
+                    ]
+                },
+                "delivery": {
+                    "delcategory": [
+                        "Remote Search Resource"
+                    ],
+                    "fulltext": [
+                        "fulltext"
+                    ]
+                },
+                "addata": {
+                    "pub": [
+                        "Czech Academy of Agricultural Sciences (CAAS)"
+                    ],
+                    "epage": [
+                        "68"
+                    ],
+                    "oa": [
+                        "free_for_read"
+                    ],
+                    "abstract": [
+                        "The nutritional, cooking and technological properties of the Tepary bean (TB) cultivated in Mexican northeast comparing to two common beans varieties (Pinto Americano and Black Jamapa) were evaluated in this study. Nutritional parameters evaluated of TB resulted significantly different from common beans varieties analysed, except lipid fraction. Cooking times of soaked (4 and 8 h) and non-soaked varieties varied significantly; TB shows between 55.1–80.49 min by cooking time. The textural profile analysis (TPA) of TB showed a significant reduction of hardness, chewiness and adhesiveness in soaked compared to non-soaked. In addition, TB presented a similar behaviour to Pinto Americano in TPA non-soaked and cooked and soaked 8h and cooked, except to adhesiveness. Technological properties of TB and resistant and non-resistant starch content showed significant differences between species. Due to, TB has nutritional, cooking and technological properties comparable to other edible legumes as common bean, mainly Pinto Americano variety."
+                    ],
+                    "spage": [
+                        "62"
+                    ],
+                    "format": [
+                        "journal"
+                    ],
+                    "au": [
+                        "Heredia-Rodríguez, Laura",
+                        "Gaytán-Martínez, Marcela",
+                        "Morales-Sánchez, Eduardo",
+                        "Garza-Juárez, Aurora de Jesús",
+                        "Urias-Orona, Vania",
+                        "González-Martínez, Blanca Edelia",
+                        "López-Cabanillas Lomelí, Manuel",
+                        "Vázquez-Rodríguez, Jesús Alberto"
+                    ],
+                    "atitle": [
+                        "Nutritional and technological properties of Tepary bean (Phaseolus acutifolius) cultivated in Mexican Northeast"
+                    ],
+                    "date": [
+                        "2019-01-01"
+                    ],
+                    "volume": [
+                        "37"
+                    ],
+                    "risdate": [
+                        "2019"
+                    ],
+                    "issue": [
+                        "1"
+                    ],
+                    "eissn": [
+                        "1805-9317"
+                    ],
+                    "pages": [
+                        "62-68"
+                    ],
+                    "ristype": [
+                        "JOUR"
+                    ],
+                    "cop": [
+                        "Prague"
+                    ],
+                    "doi": [
+                        "10.17221/331/2017-CJFS"
+                    ],
+                    "tpages": [
+                        "7"
+                    ],
+                    "genre": [
+                        "article"
+                    ],
+                    "jtitle": [
+                        "Czech Journal of Food Sciences"
+                    ],
+                    "issn": [
+                        "1212-1800"
+                    ]
+                },
+                "facets": {
+                    "rsrctype": [
+                        "articles"
+                    ],
+                    "language": [
+                        "eng ; cze ; slo"
+                    ],
+                    "toplevel": [
+                        "peer_reviewed",
+                        "online_resources"
+                    ],
+                    "collection": [
+                        "CrossRef",
+                        "ProQuest Central (Corporate)",
+                        "Agricultural Science Collection",
+                        "ProQuest SciTech Collection",
+                        "ProQuest Natural Science Collection",
+                        "ProQuest Central (Alumni) (purchase pre-March 2016)",
+                        "ProQuest Central (Alumni)",
+                        "ProQuest Central",
+                        "Agricultural & Environmental Science Collection",
+                        "ProQuest Central Essentials",
+                        "ProQuest Central",
+                        "ProQuest Natural Science Collection",
+                        "ProQuest One Community College",
+                        "ProQuest Central",
+                        "SciTech Premium Collection",
+                        "Agriculture Science Database",
+                        "Publicly Available Content Database",
+                        "ProQuest One Academic Eastern Edition (DO NOT USE)",
+                        "ProQuest One Academic",
+                        "ProQuest One Academic UKI Edition",
+                        "ProQuest Central China",
+                        "Directory of Open Access Journals"
+                    ],
+                    "frbrtype": [
+                        "5"
+                    ],
+                    "creationdate": [
+                        "2019"
+                    ],
+                    "frbrgroupid": [
+                        "cdi_FETCH-LOGICAL-c373t-94c5f620852085ce17ee5ce001f5d00302958b86073dae4d0be6ec1a41fb901e3"
+                    ],
+                    "jtitle": [
+                        "Czech Journal of Food Sciences"
+                    ],
+                    "creatorcontrib": [
+                        "Heredia-Rodríguez, Laura",
+                        "Gaytán-Martínez, Marcela",
+                        "Morales-Sánchez, Eduardo",
+                        "Garza-Juárez, Aurora de Jesús",
+                        "Urias-Orona, Vania",
+                        "González-Martínez, Blanca Edelia",
+                        "López-Cabanillas Lomelí, Manuel",
+                        "Vázquez-Rodríguez, Jesús Alberto"
+                    ],
+                    "prefilter": [
+                        "articles"
+                    ],
+                    "topic": [
+                        "Beans",
+                        "Cooking",
+                        "Legumes",
+                        "Lipids",
+                        "Starch",
+                        "Vegetables"
+                    ]
+                },
+                "sort": {
+                    "author": [
+                        "Heredia-Rodríguez, Laura ; Gaytán-Martínez, Marcela ; Morales-Sánchez, Eduardo ; Garza-Juárez, Aurora de Jesús ; Urias-Orona, Vania ; González-Martínez, Blanca Edelia ; López-Cabanillas Lomelí, Manuel ; Vázquez-Rodríguez, Jesús Alberto"
+                    ],
+                    "creationdate": [
+                        "20190101"
+                    ],
+                    "title": [
+                        "Nutritional and technological properties of Tepary bean (Phaseolus acutifolius) cultivated in Mexican Northeast"
+                    ]
+                },
+                "control": {
+                    "sourcetype": [
+                        "Open Website"
+                    ],
+                    "sourceformat": [
+                        "XML"
+                    ],
+                    "sourcesystem": [
+                        "Other"
+                    ],
+                    "sourceid": [
+                        "proquest_doaj_"
+                    ],
+                    "recordtype": [
+                        "article"
+                    ],
+                    "sourcerecordid": [
+                        "2507336590"
+                    ],
+                    "originalsourceid": [
+                        "FETCH-LOGICAL-c373t-94c5f620852085ce17ee5ce001f5d00302958b86073dae4d0be6ec1a41fb901e3"
+                    ],
+                    "pqid": [
+                        "2507336590"
+                    ],
+                    "addsrcrecordid": [
+                        "eNo9kdFr2zAQxs3YYCHNa58Fe1kf3NxJlmU_jrC0HWk2WPssFPncKHhWKsmj_e-nNGUHx4mP43en-4riEuEaFee4FAKXHFCVqx_r3x-KGTYgy1ag-pjfHHmZBfhcLGI8wCkUyLqeFX47peCS86MZmBk7lsjuRz_4J2ezcgz-SCE5isz37IGOJryyHZmRff21N5H8MEVm7JRc7wc3xStmpyG5vyZRx9zI7uklc0a29SHtycR0UXzqzRBp8V7nxeP6-8Pqttz8vLlbfduUViiRyraysq85NPKUllAR5QKAvewABPBWNrumBiU6Q1UHO6rJoqmw37WAJObF3ZnbeXPQx-D-5M21N06_CT48aZP_ZQfSGVtxANv1DVQKlWmbjBCAEiU1ts6sL2dWvsbzRDHpg59CPljUXOYNRC1byF3X5y4bfIyB-v9TEfSbRzp7pE8e6ZNH4h8sjIPU"
+                    ],
+                    "recordid": [
+                        "cdi_doaj_primary_oai_doaj_org_article_ce04200cdf804717a98901301515e8c6"
+                    ],
+                    "doajid": [
+                        "oai_doaj_org_article_ce04200cdf804717a98901301515e8c6"
+                    ],
+                    "score": [
+                        "0.017629564"
+                    ]
+                }
+            },
+            "delivery": {
+                "link": [],
+                "deliveryCategory": [
+                    "Remote Search Resource"
+                ],
+                "availability": [
+                    "fulltext"
+                ],
+                "displayLocation": false,
+                "additionalLocations": false,
+                "physicalItemTextCodes": "",
+                "feDisplayOtherLocations": false,
+                "displayedAvailability": "true",
+                "holding": [],
+                "almaOpenurl": "https://na02.alma.exlibrisgroup.com/view/uresolver/01KSU_INST/openurl?ctx_enc=info:ofi/enc:UTF-8&ctx_id=10_1&ctx_tim=2024-10-17 13:41:30&ctx_ver=Z39.88-2004&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&url_ver=Z39.88-2004&rfr_id=info:sid/primo.exlibrisgroup.com-proquest_doaj_&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.genre=article&rft.atitle=Nutritional+and+technological+properties+of+Tepary+bean+%28Phaseolus+acutifolius%29+cultivated+in+Mexican+Northeast&rft.jtitle=Czech+Journal+of+Food+Sciences&rft.au=Heredia-Rodr%C3%ADguez%2C+Laura&rft.date=2019-01-01&rft.volume=37&rft.issue=1&rft.spage=62&rft.epage=68&rft.pages=62-68&rft.issn=1212-1800&rft.eissn=1805-9317&rft_id=info:doi/10.17221%2F331%2F2017-CJFS&rft.pub=Czech+Academy+of+Agricultural+Sciences+%28CAAS%29&rft.place=Prague&rft_dat=<proquest_doaj_>2507336590</proquest_doaj_>&svc_dat=viewit&rft_pqid=2507336590"
+            },
+            "context": "PC",
+            "adaptor": "Primo Central",
+            "extras": {
+                "citationTrails": {
+                    "citing": [
+                        "FETCH-LOGICAL-c373t-94c5f620852085ce17ee5ce001f5d00302958b86073dae4d0be6ec1a41fb901e3"
+                    ],
+                    "citedby": [
+                        "FETCH-LOGICAL-c373t-94c5f620852085ce17ee5ce001f5d00302958b86073dae4d0be6ec1a41fb901e3"
+                    ]
+                },
+                "timesCited": {}
+            },
+            "@id": "https://na02.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/PC/cdi_doaj_primary_oai_doaj_org_article_ce04200cdf804717a98901301515e8c6"
+        },
+        {
+            "context": "L",
+            "adaptor": "Local Search Engine",
+            "@id": "https://na02.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/L/9942971377002401",
+            "pnx": {
+                "display": {
+                    "source": [
+                        "Alma"
+                    ],
+                    "type": [
+                        "book"
+                    ],
+                    "language": [
+                        "spa"
+                    ],
+                    "title": [
+                        "Recetas de cocina del primer concurso nacional : La cuchara de oro Numar."
+                    ],
+                    "subject": [
+                        "Cooking, Costa Rican",
+                        "Cooking, Mexican"
+                    ],
+                    "format": [
+                        "167 pages : color illustrations ; 22 cm"
+                    ],
+                    "creationdate": [
+                        "1965"
+                    ],
+                    "publisher": [
+                        "San José, C.R. : Cia. Numar"
+                    ],
+                    "mms": [
+                        "9942971377002401"
+                    ],
+                    "contributor": [
+                        "Compañía Numar.$$QCompañía Numar."
+                    ],
+                    "contents": [
+                        "Primera Parte. Pastel de Pollo a la Clover (Primer Premio) ; Empanadas de Piña (Segundo Premio) ; Ensalada Cristal (Segundo Premio) ; Trenza Sancarleña (Tercer Premio) ; Pastel de Soda (Tercer Premio) ; Ensalada China (Tercer Premio) ; Finalistas Eliminatoria Local ; Repostería: Postres y Pan ; Platos Salados y Sopas ; Bocas y Ensaladas -- Segunda Parte. Ensaladas ; Verduras y Legumbres ; Aves y Carnes ; Pescados y Mariscos ; Varios ; Postres, Quenwues y Repostería ; Pan ; Bocas."
+                    ],
+                    "genre": [
+                        "Cookbooks."
+                    ],
+                    "place": [
+                        "San José, C.R. :"
+                    ],
+                    "version": [
+                        "1"
+                    ]
+                },
+                "control": {
+                    "sourcerecordid": [
+                        "9942971377002401"
+                    ],
+                    "recordid": [
+                        "alma9942971377002401"
+                    ],
+                    "sourceid": "alma",
+                    "originalsourceid": [
+                        "ocm19044598"
+                    ],
+                    "sourcesystem": [
+                        "OTHER"
+                    ],
+                    "sourceformat": [
+                        "MARC21"
+                    ],
+                    "score": [
+                        0.0161520401
+                    ],
+                    "isDedup": false,
+                    "save_score": [
+                        0.000041277425
+                    ]
+                },
+                "addata": {
+                    "date": [
+                        "1965"
+                    ],
+                    "cop": [
+                        "San José, C.R"
+                    ],
+                    "pub": [
+                        "Cia. Numar"
+                    ],
+                    "oclcid": [
+                        "(ocolc)19044598"
+                    ],
+                    "format": [
+                        "book"
+                    ],
+                    "genre": [
+                        "book"
+                    ],
+                    "ristype": [
+                        "BOOK"
+                    ],
+                    "btitle": [
+                        "Recetas de cocina del primer concurso nacional : La cuchara de oro Numar."
+                    ]
+                },
+                "sort": {
+                    "title": [
+                        "Recetas de cocina del primer concurso nacional : La cuchara de oro Numar."
+                    ],
+                    "author": [
+                        "Compañía Numar."
+                    ],
+                    "creationdate": [
+                        "1965"
+                    ]
+                },
+                "facets": {
+                    "frbrtype": [
+                        "6"
+                    ],
+                    "frbrgroupid": [
+                        "9024098862891686907"
+                    ]
+                }
+            },
+            "delivery": {
+                "bestlocation": {
+                    "isValidUser": true,
+                    "organization": "01KSU_INST",
+                    "libraryCode": "SPEC",
+                    "availabilityStatus": "available",
+                    "subLocation": "Special Collections--Non-Circulating, 5th Floor",
+                    "subLocationCode": "spec",
+                    "mainLocation": "Special Collections Library",
+                    "callNumber": "TX716.C77 R43 1965",
+                    "callNumberType": "0",
+                    "holdingURL": "OVP",
+                    "adaptorid": "ALMA_01",
+                    "ilsApiId": "9942971377002401",
+                    "holdId": "22361605570002401",
+                    "holKey": "HoldingResultKey [mid=22361605570002401, libraryId=12230460490002401, locationCode=spec, callNumber=TX716.C77 R43 1965]",
+                    "matchForHoldings": [
+                        {
+                            "matchOn": "MainLocation",
+                            "holdingRecord": "852##b"
+                        }
+                    ],
+                    "stackMapUrl": "",
+                    "relatedTitle": null,
+                    "translateRelatedTitle": null,
+                    "yearFilter": null,
+                    "volumeFilter": null,
+                    "singleUnavailableItemProcessType": null,
+                    "boundWith": false,
+                    "@id": "_:0"
+                },
+                "holding": [
+                    {
+                        "isValidUser": true,
+                        "organization": "01KSU_INST",
+                        "libraryCode": "SPEC",
+                        "availabilityStatus": "available",
+                        "subLocation": "Special Collections--Non-Circulating, 5th Floor",
+                        "subLocationCode": "spec",
+                        "mainLocation": "Special Collections Library",
+                        "callNumber": "TX716.C77 R43 1965",
+                        "callNumberType": "0",
+                        "holdingURL": "OVP",
+                        "adaptorid": "ALMA_01",
+                        "ilsApiId": "9942971377002401",
+                        "holdId": "22361605570002401",
+                        "holKey": "HoldingResultKey [mid=22361605570002401, libraryId=12230460490002401, locationCode=spec, callNumber=TX716.C77 R43 1965]",
+                        "matchForHoldings": [
+                            {
+                                "matchOn": "MainLocation",
+                                "holdingRecord": "852##b"
+                            }
+                        ],
+                        "stackMapUrl": "",
+                        "relatedTitle": null,
+                        "translateRelatedTitle": null,
+                        "yearFilter": null,
+                        "volumeFilter": null,
+                        "singleUnavailableItemProcessType": null,
+                        "boundWith": false,
+                        "@id": "_:0"
+                    }
+                ],
+                "electronicServices": null,
+                "additionalElectronicServices": null,
+                "filteredByGroupServices": null,
+                "quickAccessService": null,
+                "deliveryCategory": [
+                    "Alma-P"
+                ],
+                "serviceMode": [
+                    "ovp"
+                ],
+                "availability": [
+                    "available_in_library"
+                ],
+                "availabilityLinks": [
+                    "detailsgetit1"
+                ],
+                "availabilityLinksUrl": [],
+                "displayedAvailability": null,
+                "displayLocation": true,
+                "additionalLocations": false,
+                "physicalItemTextCodes": null,
+                "feDisplayOtherLocations": false,
+                "almaInstitutionsList": [],
+                "recordInstitutionCode": null,
+                "recordOwner": "01KSU_INST",
+                "hasFilteredServices": null,
+                "digitalAuxiliaryMode": false,
+                "hideResourceSharing": false,
+                "sharedDigitalCandidates": null,
+                "consolidatedCoverage": null,
+                "electronicContextObjectId": null,
+                "GetIt1": [
+                    {
+                        "category": "Alma-P",
+                        "links": [
+                            {
+                                "isLinktoOnline": false,
+                                "getItTabText": "service_getit",
+                                "adaptorid": "ALMA_01",
+                                "ilsApiId": "9942971377002401",
+                                "link": "OVP",
+                                "inst4opac": "01KSU_INST",
+                                "displayText": null,
+                                "@id": "_:0"
+                            }
+                        ]
+                    }
+                ],
+                "physicalServiceId": null,
+                "link": [
+                    {
+                        "@id": ":_0",
+                        "linkType": "thumbnail",
+                        "linkURL": "https://proxy-na.hosted.exlibrisgroup.com/exl_rewrite/books.google.com/books?bibkeys=ISBN:,OCLC:19044598,LCCN:&jscmd=viewapi&callback=updateGBSCover",
+                        "displayLabel": "thumbnail"
+                    }
+                ],
+                "hasD": null
+            },
+            "enrichment": {
+                "virtualBrowseObject": {
+                    "isVirtualBrowseEnabled": true,
+                    "callNumber": "TX716.C77 R43 1965",
+                    "callNumberBrowseField": "0"
+                },
+                "bibVirtualBrowseObject": {
+                    "isVirtualBrowseEnabled": true,
+                    "callNumber": "tx\"716 c77ǂr43 1965",
+                    "callNumberBrowseField": "LOC_CL"
+                }
+            }
+        },
+        {
+            "pnx": {
+                "links": {
+                    "linktohtml": [
+                        "$$Uhttps://www.proquest.com/docview/2627823458?pq-origsite=primo&accountid=11789$$EHTML$$P50$$Gproquest$$Hfree_for_read"
+                    ],
+                    "linktopdf": [
+                        "$$Uhttps://www.proquest.com/docview/2627823458/fulltextPDF?pq-origsite=primo&accountid=11789$$EPDF$$P50$$Gproquest$$Hfree_for_read"
+                    ],
+                    "openurlfulltext": [
+                        "$$Topenurlfull_article"
+                    ],
+                    "backlink": [
+                        "$$Uhttps://www.ncbi.nlm.nih.gov/pubmed/35164230$$D View this record in MEDLINE/PubMed$$Hfree_for_read"
+                    ],
+                    "thumbnail": [
+                        "$$Tsyndetics_thumb_exl"
+                    ],
+                    "openurl": [
+                        "$$Topenurl_article"
+                    ]
+                },
+                "search": {
+                    "description": [
+                        "Mole sauce is one of the traditional Mexican foods; it is a complex mixture of ingredients of diverse origins that directly influence its nutritional value. The objective of this study was to investigate the antioxidant properties and nutritional components in five varieties of mole from Hidalgo in Mexico namely verde (V), ranchero (R), almendrado (A), casero (C), and pipian (P). Proximal chemical analysis and determination of the color index and the content of total starch, dietary fiber, mineral content (Ca, Na, K, and Mg), total phenolic content, and antioxidant activity by ABTS (2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)) and DPPH (2,2-diphenylpicrylhydrazyl) were carried out. All the five varieties of mole reported less than 25% moisture content while fat content varied from 42.9% to 58.25%. The color index ranged from a deep orange to a deep red color. A fair percentage of dietary fiber was found in all mole varieties with a low amount of starch as well. The presence of mostly insoluble dietary fiber, high phenolic content (36.13-79.49 mg GAE/100 g), and high antioxidant activity could be considered important strengths to boost the consumption of these traditional preparations. This research will contribute to a better scientific knowledge of traditional Mexican sauces as functional foods or nutraceuticals that could be used to avoid health disorders."
+                    ],
+                    "rsrctype": [
+                        "article"
+                    ],
+                    "creationdate": [
+                        "2022"
+                    ],
+                    "sourceid": [
+                        "ECM",
+                        "NPM",
+                        "BENPR",
+                        "DOA"
+                    ],
+                    "recordtype": [
+                        "article"
+                    ],
+                    "recordid": [
+                        "eNplUU1P3DAQtSpQodAf0AuKxKWXpf6K7VyQKgSFCmgl6NlyJhOaVTbe2kkF_55ZFhAfJ3ue37x5z8PYF8EPlKr4t0XsEaYes7Rc8cqYD2xbaMlniutq48V9i33Kec65FFqUH9mWKoXRUvFt9vNyGlM3dnEIfRGGpljVAXAaOyDkd4pLTGOHuYhtcYG3hA7FdQrNU88FeSiuwgS4yzbb0Gf8_HjusD8nx9dHp7PzXz_Ojr6fz0DrcpxZLlrttHIWlJHSNQ1H16rKgCF3KCoLBLVO60YLKMvaNAbBmFA73dZKqR12ttZtYpj7ZeoWId35GDr_AMR04wNZhh49BamBBlUajW5B0DBLJoQCKp11pHW41lpO9QIbwIHS969EX78M3V9_E_9751RlBSeBr48CKf6bMI9-0WXAvg8Dxil7aWTFjeDOEnX_DXUep0R_-MCyTipdrhyJNQtSzDlh-2xGcL_aun-3derZe5niueNpzeoetryqxg"
+                    ],
+                    "scope": [
+                        "CGR",
+                        "CUY",
+                        "CVF",
+                        "ECM",
+                        "EIF",
+                        "NPM",
+                        "AAYXX",
+                        "CITATION",
+                        "3V.",
+                        "7X7",
+                        "7XB",
+                        "88E",
+                        "8FI",
+                        "8FJ",
+                        "8FK",
+                        "ABUWG",
+                        "AFKRA",
+                        "AZQEC",
+                        "BENPR",
+                        "CCPQU",
+                        "DWQXO",
+                        "FYUFA",
+                        "GHDGH",
+                        "K9.",
+                        "M0S",
+                        "M1P",
+                        "PIMPY",
+                        "PQEST",
+                        "PQQKQ",
+                        "PQUKI",
+                        "PRINS",
+                        "7X8",
+                        "5PM",
+                        "DOA"
+                    ],
+                    "title": [
+                        "Nutritional and Nutraceutical Properties of Mexican Traditional Mole Sauce",
+                        "Molecules (Basel, Switzerland)"
+                    ],
+                    "addtitle": [
+                        "Molecules"
+                    ],
+                    "fulltext": [
+                        "true"
+                    ],
+                    "startdate": [
+                        "20220131"
+                    ],
+                    "enddate": [
+                        "20220131"
+                    ],
+                    "creator": [
+                        "Campos-Montiel, Rafael",
+                        "Medina-Pérez, Gabriela",
+                        "Vázquez-Nuñez, Edgar",
+                        "Afanador-Barajas, Laura",
+                        "Hernández-Soto, Iridiam",
+                        "Ahmad Nayik, Gulzar",
+                        "González-Montiel, Lucio",
+                        "Alkafafy, Mohamed"
+                    ],
+                    "orcidid": [
+                        "https://orcid.org/0000-0002-5722-2718",
+                        "https://orcid.org/0000-0001-8372-5936",
+                        "https://orcid.org/0000-0002-7194-5429",
+                        "https://orcid.org/0000-0002-8133-7048"
+                    ],
+                    "subject": [
+                        "Analytical chemistry",
+                        "Antioxidants",
+                        "Color",
+                        "Cultural property",
+                        "Fiber in human nutrition",
+                        "Human beings",
+                        "Mexico",
+                        "Moles",
+                        "Nutritive Value",
+                        "Phenols",
+                        "Proteins",
+                        "Sauces",
+                        "Seeds",
+                        "Sodium",
+                        "Spices",
+                        "Starch"
+                    ],
+                    "issn": [
+                        "1420-3049",
+                        "1420-3049"
+                    ],
+                    "general": [
+                        "MDPI AG",
+                        "MDPI"
+                    ],
+                    "creatorcontrib": [
+                        "Campos-Montiel, Rafael",
+                        "Medina-Pérez, Gabriela",
+                        "Vázquez-Nuñez, Edgar",
+                        "Afanador-Barajas, Laura",
+                        "Hernández-Soto, Iridiam",
+                        "Ahmad Nayik, Gulzar",
+                        "González-Montiel, Lucio",
+                        "Alkafafy, Mohamed"
+                    ]
+                },
+                "display": {
+                    "description": [
+                        "Mole sauce is one of the traditional Mexican foods; it is a complex mixture of ingredients of diverse origins that directly influence its nutritional value. The objective of this study was to investigate the antioxidant properties and nutritional components in five varieties of mole from Hidalgo in Mexico namely verde (V), ranchero (R), almendrado (A), casero (C), and pipian (P). Proximal chemical analysis and determination of the color index and the content of total starch, dietary fiber, mineral content (Ca, Na, K, and Mg), total phenolic content, and antioxidant activity by ABTS (2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)) and DPPH (2,2-diphenylpicrylhydrazyl) were carried out. All the five varieties of mole reported less than 25% moisture content while fat content varied from 42.9% to 58.25%. The color index ranged from a deep orange to a deep red color. A fair percentage of dietary fiber was found in all mole varieties with a low amount of starch as well. The presence of mostly insoluble dietary fiber, high phenolic content (36.13-79.49 mg GAE/100 g), and high antioxidant activity could be considered important strengths to boost the consumption of these traditional preparations. This research will contribute to a better scientific knowledge of traditional Mexican sauces as functional foods or nutraceuticals that could be used to avoid health disorders."
+                    ],
+                    "oa": [
+                        "free_for_read"
+                    ],
+                    "language": [
+                        "eng"
+                    ],
+                    "title": [
+                        "Nutritional and Nutraceutical Properties of Mexican Traditional Mole Sauce"
+                    ],
+                    "creator": [
+                        "Campos-Montiel, Rafael ; Medina-Pérez, Gabriela ; Vázquez-Nuñez, Edgar ; Afanador-Barajas, Laura ; Hernández-Soto, Iridiam ; Ahmad Nayik, Gulzar ; González-Montiel, Lucio ; Alkafafy, Mohamed"
+                    ],
+                    "subject": [
+                        "Analytical chemistry ; Antioxidants ; Color ; Cultural property ; Fiber in human nutrition ; Human beings ; Mexico ; Moles ; Nutritive Value ; Phenols ; Proteins ; Sauces ; Seeds ; Sodium ; Spices ; Starch"
+                    ],
+                    "lds50": [
+                        "peer_reviewed"
+                    ],
+                    "source": [
+                        "MEDLINE",
+                        "Gale Academic OneFile Select",
+                        "Directory of Open Access Journals",
+                        "PubMed",
+                        "PubMed Central",
+                        "Alma/SFX Local Collection",
+                        "ProQuest Central"
+                    ],
+                    "type": [
+                        "article"
+                    ],
+                    "rights": [
+                        "2022 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (https://creativecommons.org/licenses/by/4.0/). Notwithstanding the ProQuest Terms and Conditions, you may use this content in accordance with the terms of the License.",
+                        "2022 by the authors. 2022"
+                    ],
+                    "keyword": [
+                        "antioxidant activity ; Antioxidants - analysis ; Dietary Supplements - analysis ; Functional foods & nutraceuticals ; Index Medicus ; Mexican food ; mineral content ; Moisture content ; phenolic content ; Sulfonic acid ; Vegetables - chemistry ; Water content"
+                    ],
+                    "identifier": [
+                        "ISSN: 1420-3049",
+                        "EISSN: 1420-3049",
+                        "DOI: 10.3390/molecules27030966",
+                        "PMID: 35164230"
+                    ],
+                    "ispartof": [
+                        "Molecules (Basel, Switzerland), 2022-01, Vol.27 (3), p.966"
+                    ],
+                    "publisher": [
+                        "Switzerland: MDPI AG"
+                    ],
+                    "snippet": [
+                        "Mole sauce is one of the traditional Mexican foods; it is a complex mixture of ingredients of diverse origins that directly influence its nutritional value..."
+                    ]
+                },
+                "delivery": {
+                    "delcategory": [
+                        "Remote Search Resource"
+                    ],
+                    "fulltext": [
+                        "fulltext"
+                    ]
+                },
+                "addata": {
+                    "pub": [
+                        "MDPI AG"
+                    ],
+                    "notes": [
+                        "ObjectType-Article-1",
+                        "SourceType-Scholarly Journals-1",
+                        "ObjectType-Feature-2",
+                        "content type line 23"
+                    ],
+                    "oa": [
+                        "free_for_read"
+                    ],
+                    "abstract": [
+                        "Mole sauce is one of the traditional Mexican foods; it is a complex mixture of ingredients of diverse origins that directly influence its nutritional value. The objective of this study was to investigate the antioxidant properties and nutritional components in five varieties of mole from Hidalgo in Mexico namely verde (V), ranchero (R), almendrado (A), casero (C), and pipian (P). Proximal chemical analysis and determination of the color index and the content of total starch, dietary fiber, mineral content (Ca, Na, K, and Mg), total phenolic content, and antioxidant activity by ABTS (2,2'-azino-bis(3-ethylbenzothiazoline-6-sulfonic acid)) and DPPH (2,2-diphenylpicrylhydrazyl) were carried out. All the five varieties of mole reported less than 25% moisture content while fat content varied from 42.9% to 58.25%. The color index ranged from a deep orange to a deep red color. A fair percentage of dietary fiber was found in all mole varieties with a low amount of starch as well. The presence of mostly insoluble dietary fiber, high phenolic content (36.13-79.49 mg GAE/100 g), and high antioxidant activity could be considered important strengths to boost the consumption of these traditional preparations. This research will contribute to a better scientific knowledge of traditional Mexican sauces as functional foods or nutraceuticals that could be used to avoid health disorders."
+                    ],
+                    "spage": [
+                        "966"
+                    ],
+                    "format": [
+                        "journal"
+                    ],
+                    "au": [
+                        "Campos-Montiel, Rafael",
+                        "Medina-Pérez, Gabriela",
+                        "Vázquez-Nuñez, Edgar",
+                        "Afanador-Barajas, Laura",
+                        "Hernández-Soto, Iridiam",
+                        "Ahmad Nayik, Gulzar",
+                        "González-Montiel, Lucio",
+                        "Alkafafy, Mohamed"
+                    ],
+                    "atitle": [
+                        "Nutritional and Nutraceutical Properties of Mexican Traditional Mole Sauce"
+                    ],
+                    "date": [
+                        "2022-01-31"
+                    ],
+                    "volume": [
+                        "27"
+                    ],
+                    "risdate": [
+                        "2022"
+                    ],
+                    "issue": [
+                        "3"
+                    ],
+                    "eissn": [
+                        "1420-3049"
+                    ],
+                    "pages": [
+                        "966-"
+                    ],
+                    "ristype": [
+                        "JOUR"
+                    ],
+                    "cop": [
+                        "Switzerland"
+                    ],
+                    "doi": [
+                        "10.3390/molecules27030966"
+                    ],
+                    "pmid": [
+                        "35164230"
+                    ],
+                    "addtitle": [
+                        "Molecules"
+                    ],
+                    "genre": [
+                        "article"
+                    ],
+                    "jtitle": [
+                        "Molecules (Basel, Switzerland)"
+                    ],
+                    "orcidid": [
+                        "https://orcid.org/0000-0002-5722-2718",
+                        "https://orcid.org/0000-0001-8372-5936",
+                        "https://orcid.org/0000-0002-7194-5429",
+                        "https://orcid.org/0000-0002-8133-7048"
+                    ],
+                    "issn": [
+                        "1420-3049"
+                    ]
+                },
+                "facets": {
+                    "rsrctype": [
+                        "articles"
+                    ],
+                    "language": [
+                        "eng"
+                    ],
+                    "toplevel": [
+                        "peer_reviewed",
+                        "online_resources"
+                    ],
+                    "collection": [
+                        "Medline",
+                        "MEDLINE",
+                        "MEDLINE (Ovid)",
+                        "MEDLINE",
+                        "MEDLINE",
+                        "PubMed",
+                        "CrossRef",
+                        "ProQuest Central (Corporate)",
+                        "Health & Medical Collection",
+                        "ProQuest Central (purchase pre-March 2016)",
+                        "Medical Database (Alumni Edition)",
+                        "Hospital Premium Collection",
+                        "Hospital Premium Collection (Alumni Edition)",
+                        "ProQuest Central (Alumni) (purchase pre-March 2016)",
+                        "ProQuest Central (Alumni)",
+                        "ProQuest Central",
+                        "ProQuest Central Essentials",
+                        "ProQuest Central",
+                        "ProQuest One Community College",
+                        "ProQuest Central",
+                        "Health Research Premium Collection",
+                        "Health Research Premium Collection (Alumni)",
+                        "ProQuest Health & Medical Complete (Alumni)",
+                        "Health & Medical Collection (Alumni Edition)",
+                        "PML(ProQuest Medical Library)",
+                        "Publicly Available Content Database",
+                        "ProQuest One Academic Eastern Edition (DO NOT USE)",
+                        "ProQuest One Academic",
+                        "ProQuest One Academic UKI Edition",
+                        "ProQuest Central China",
+                        "MEDLINE - Academic",
+                        "PubMed Central (Full Participant titles)",
+                        "Directory of Open Access Journals"
+                    ],
+                    "frbrtype": [
+                        "5"
+                    ],
+                    "creationdate": [
+                        "2022"
+                    ],
+                    "frbrgroupid": [
+                        "cdi_FETCH-LOGICAL-c445t-701f484387c36228dd0e8f396c6141e197cdd0f844d41c55b6d6ec66ab84fb333"
+                    ],
+                    "jtitle": [
+                        "Molecules (Basel, Switzerland)"
+                    ],
+                    "creatorcontrib": [
+                        "Campos-Montiel, Rafael",
+                        "Medina-Pérez, Gabriela",
+                        "Vázquez-Nuñez, Edgar",
+                        "Afanador-Barajas, Laura",
+                        "Hernández-Soto, Iridiam",
+                        "Ahmad Nayik, Gulzar",
+                        "González-Montiel, Lucio",
+                        "Alkafafy, Mohamed"
+                    ],
+                    "prefilter": [
+                        "articles"
+                    ],
+                    "topic": [
+                        "Analytical chemistry",
+                        "Antioxidants",
+                        "Color",
+                        "Cultural property",
+                        "Fiber in human nutrition",
+                        "Human beings",
+                        "Mexico",
+                        "Moles",
+                        "Nutritive Value",
+                        "Phenols",
+                        "Proteins",
+                        "Sauces",
+                        "Seeds",
+                        "Sodium",
+                        "Spices",
+                        "Starch"
+                    ]
+                },
+                "sort": {
+                    "author": [
+                        "Campos-Montiel, Rafael ; Medina-Pérez, Gabriela ; Vázquez-Nuñez, Edgar ; Afanador-Barajas, Laura ; Hernández-Soto, Iridiam ; Ahmad Nayik, Gulzar ; González-Montiel, Lucio ; Alkafafy, Mohamed"
+                    ],
+                    "creationdate": [
+                        "20220131"
+                    ],
+                    "title": [
+                        "Nutritional and Nutraceutical Properties of Mexican Traditional Mole Sauce"
+                    ]
+                },
+                "control": {
+                    "sourcetype": [
+                        "Open Website"
+                    ],
+                    "sourceformat": [
+                        "XML"
+                    ],
+                    "sourcesystem": [
+                        "Other"
+                    ],
+                    "sourceid": [
+                        "proquest_doaj_"
+                    ],
+                    "recordtype": [
+                        "article"
+                    ],
+                    "sourcerecordid": [
+                        "2629061087"
+                    ],
+                    "originalsourceid": [
+                        "FETCH-LOGICAL-c445t-701f484387c36228dd0e8f396c6141e197cdd0f844d41c55b6d6ec66ab84fb333"
+                    ],
+                    "pqid": [
+                        "2627823458"
+                    ],
+                    "addsrcrecordid": [
+                        "eNplUU1P3DAQtSpQodAf0AuKxKWXpf6K7VyQKgSFCmgl6NlyJhOaVTbe2kkF_55ZFhAfJ3ue37x5z8PYF8EPlKr4t0XsEaYes7Rc8cqYD2xbaMlniutq48V9i33Kec65FFqUH9mWKoXRUvFt9vNyGlM3dnEIfRGGpljVAXAaOyDkd4pLTGOHuYhtcYG3hA7FdQrNU88FeSiuwgS4yzbb0Gf8_HjusD8nx9dHp7PzXz_Ojr6fz0DrcpxZLlrttHIWlJHSNQ1H16rKgCF3KCoLBLVO60YLKMvaNAbBmFA73dZKqR12ttZtYpj7ZeoWId35GDr_AMR04wNZhh49BamBBlUajW5B0DBLJoQCKp11pHW41lpO9QIbwIHS969EX78M3V9_E_9751RlBSeBr48CKf6bMI9-0WXAvg8Dxil7aWTFjeDOEnX_DXUep0R_-MCyTipdrhyJNQtSzDlh-2xGcL_aun-3derZe5niueNpzeoetryqxg"
+                    ],
+                    "recordid": [
+                        "cdi_doaj_primary_oai_doaj_org_article_acebc87c94e64fc18dd744513c64f878"
+                    ],
+                    "doajid": [
+                        "oai_doaj_org_article_acebc87c94e64fc18dd744513c64f878"
+                    ],
+                    "score": [
+                        "0.01615204"
+                    ]
+                }
+            },
+            "delivery": {
+                "link": [],
+                "deliveryCategory": [
+                    "Remote Search Resource"
+                ],
+                "availability": [
+                    "fulltext"
+                ],
+                "displayLocation": false,
+                "additionalLocations": false,
+                "physicalItemTextCodes": "",
+                "feDisplayOtherLocations": false,
+                "displayedAvailability": "true",
+                "holding": [],
+                "almaOpenurl": "https://na02.alma.exlibrisgroup.com/view/uresolver/01KSU_INST/openurl?ctx_enc=info:ofi/enc:UTF-8&ctx_id=10_1&ctx_tim=2024-10-17 13:41:30&ctx_ver=Z39.88-2004&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&url_ver=Z39.88-2004&rfr_id=info:sid/primo.exlibrisgroup.com-proquest_doaj_&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.genre=article&rft.atitle=Nutritional+and+Nutraceutical+Properties+of+Mexican+Traditional+Mole+Sauce&rft.jtitle=Molecules+%28Basel%2C+Switzerland%29&rft.au=Campos-Montiel%2C+Rafael&rft.date=2022-01-31&rft.volume=27&rft.issue=3&rft.spage=966&rft.pages=966-&rft.issn=1420-3049&rft.eissn=1420-3049&rft_id=info:doi/10.3390%2Fmolecules27030966&rft.pub=MDPI+AG&rft.place=Switzerland&rft_id=info:pmid/35164230&rft_dat=<proquest_doaj_>2629061087</proquest_doaj_>&svc_dat=viewit&rft_pqid=2627823458"
+            },
+            "context": "PC",
+            "adaptor": "Primo Central",
+            "extras": {
+                "citationTrails": {
+                    "citing": [
+                        "FETCH-LOGICAL-c445t-701f484387c36228dd0e8f396c6141e197cdd0f844d41c55b6d6ec66ab84fb333"
+                    ],
+                    "citedby": []
+                },
+                "timesCited": {}
+            },
+            "@id": "https://na02.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/PC/cdi_doaj_primary_oai_doaj_org_article_acebc87c94e64fc18dd744513c64f878"
+        },
+        {
+            "pnx": {
+                "links": {
+                    "linktohtml": [
+                        "$$Uhttps://www.proquest.com/docview/2529957969?pq-origsite=primo&accountid=11789$$EHTML$$P50$$Gproquest$$H"
+                    ],
+                    "openurlfulltext": [
+                        "$$Topenurlfull_article"
+                    ],
+                    "linktorsrc": [
+                        "$$Uhttps://search.proquest.com/docview/2529957969?pq-origsite=primo&accountid=11789$$EView_record_in_ProQuest$$FView_record_in_$$GProQuest"
+                    ],
+                    "thumbnail": [
+                        "$$Tsyndetics_thumb_exl"
+                    ],
+                    "openurl": [
+                        "$$Topenurl_article"
+                    ]
+                },
+                "search": {
+                    "rsrctype": [
+                        "newspaper_article"
+                    ],
+                    "creationdate": [
+                        "2021"
+                    ],
+                    "sourceid": [
+                        "BENPR",
+                        "CLPLZ",
+                        "EVNAE"
+                    ],
+                    "recordtype": [
+                        "newspaper_article"
+                    ],
+                    "recordid": [
+                        "eNpjYuA0NDU11rUwsDTlYOAtLs4yMDAwMjA1NzC04GSwdMlXiMwvVfDJzE5VCMg8vDFRwTk_JzElsdhewTc1tUShJCNVwSOxKEUhODWnpCq1SCE4Nz-_JCMzlYeBNS0xpziVF0pzM2i4uYY4e-gWFOUXlqYWl8TnZhYnp-bkJOal5pcWxxuZGllamppbmlkak6AUAHf7Oes"
+                    ],
+                    "scope": [
+                        "0TT",
+                        "0U~",
+                        "81N",
+                        "ABUWG",
+                        "AFKRA",
+                        "AZQEC",
+                        "BENPR",
+                        "CCPQU",
+                        "CLPLZ",
+                        "DWQXO",
+                        "EQCNB",
+                        "EVNAE",
+                        "GNUQQ",
+                        "GUQSH",
+                        "KB~",
+                        "PQEST",
+                        "PQQKQ",
+                        "PQUKI",
+                        "S0X"
+                    ],
+                    "title": [
+                        "Do You Like Piña Coladas? Meet the Hard Seltzer Smoothie",
+                        "New York Times (Online)"
+                    ],
+                    "fulltext": [
+                        "true"
+                    ],
+                    "startdate": [
+                        "20210521"
+                    ],
+                    "enddate": [
+                        "20210521"
+                    ],
+                    "creator": [
+                        "Bernstein, Joshua M"
+                    ],
+                    "subject": [
+                        "Alcohol",
+                        "Beer",
+                        "Breweries",
+                        "Cooking",
+                        "Fruit",
+                        "Summer",
+                        "Tea"
+                    ],
+                    "issn": [
+                        "1553-8095"
+                    ],
+                    "general": [
+                        "New York Times Company"
+                    ],
+                    "creatorcontrib": [
+                        "Bernstein, Joshua M"
+                    ]
+                },
+                "display": {
+                    "language": [
+                        "eng"
+                    ],
+                    "title": [
+                        "Do You Like Piña Coladas? Meet the Hard Seltzer Smoothie"
+                    ],
+                    "creator": [
+                        "Bernstein, Joshua M"
+                    ],
+                    "subject": [
+                        "Alcohol ; Beer ; Breweries ; Cooking ; Fruit ; Summer ; Tea"
+                    ],
+                    "source": [
+                        "ProQuest - U.S. Newsstream"
+                    ],
+                    "type": [
+                        "newspaper_article"
+                    ],
+                    "rights": [
+                        "Copyright 2021 The New York Times Company"
+                    ],
+                    "keyword": [
+                        "Calories"
+                    ],
+                    "identifier": [
+                        "EISSN: 1553-8095"
+                    ],
+                    "ispartof": [
+                        "New York Times (Online), 2021-05-21"
+                    ],
+                    "publisher": [
+                        "New York: New York Times Company"
+                    ]
+                },
+                "delivery": {
+                    "delcategory": [
+                        "Remote Search Resource"
+                    ],
+                    "fulltext": [
+                        "fulltext_linktorsrc"
+                    ]
+                },
+                "addata": {
+                    "pub": [
+                        "New York Times Company"
+                    ],
+                    "notes": [
+                        "ObjectType-News-1",
+                        "content type line 22",
+                        "SourceType-Blogs, Podcasts, & Websites-1"
+                    ],
+                    "format": [
+                        "journal"
+                    ],
+                    "au": [
+                        "Bernstein, Joshua M"
+                    ],
+                    "atitle": [
+                        "Do You Like Piña Coladas? Meet the Hard Seltzer Smoothie"
+                    ],
+                    "date": [
+                        "2021-05-21"
+                    ],
+                    "risdate": [
+                        "2021"
+                    ],
+                    "eissn": [
+                        "1553-8095"
+                    ],
+                    "ristype": [
+                        "JOUR"
+                    ],
+                    "cop": [
+                        "New York"
+                    ],
+                    "genre": [
+                        "article"
+                    ],
+                    "jtitle": [
+                        "New York Times (Online)"
+                    ]
+                },
+                "facets": {
+                    "rsrctype": [
+                        "newspaper_articles"
+                    ],
+                    "language": [
+                        "eng"
+                    ],
+                    "toplevel": [
+                        "online_resources"
+                    ],
+                    "collection": [
+                        "News PRO",
+                        "Global News & ABI/Inform Professional",
+                        "New York Times",
+                        "ProQuest Central (Alumni)",
+                        "ProQuest Central",
+                        "ProQuest Central Essentials",
+                        "ProQuest Central",
+                        "ProQuest One Community College",
+                        "ProQuest Global Newsstream",
+                        "ProQuest Central",
+                        "ProQuest - U.S. Major Dailies",
+                        "ProQuest - U.S. Newsstream",
+                        "ProQuest Central Student",
+                        "Research Library Prep",
+                        "ProQuest Newsstand Professional",
+                        "ProQuest One Academic Eastern Edition (DO NOT USE)",
+                        "ProQuest One Academic",
+                        "ProQuest One Academic UKI Edition",
+                        "SIRS Editorial"
+                    ],
+                    "frbrtype": [
+                        "5"
+                    ],
+                    "creationdate": [
+                        "2021"
+                    ],
+                    "frbrgroupid": [
+                        "cdi_FETCH-proquest_miscellaneous_25299579693"
+                    ],
+                    "jtitle": [
+                        "New York Times (Online)"
+                    ],
+                    "creatorcontrib": [
+                        "Bernstein, Joshua M"
+                    ],
+                    "prefilter": [
+                        "newspaper_articles"
+                    ],
+                    "topic": [
+                        "Alcohol",
+                        "Beer",
+                        "Breweries",
+                        "Cooking",
+                        "Fruit",
+                        "Summer",
+                        "Tea"
+                    ]
+                },
+                "sort": {
+                    "author": [
+                        "Bernstein, Joshua M"
+                    ],
+                    "creationdate": [
+                        "20210521"
+                    ],
+                    "title": [
+                        "Do You Like Piña Coladas? Meet the Hard Seltzer Smoothie"
+                    ]
+                },
+                "control": {
+                    "sourcetype": [
+                        "Aggregation Database"
+                    ],
+                    "sourceformat": [
+                        "XML"
+                    ],
+                    "sourcesystem": [
+                        "Other"
+                    ],
+                    "sourceid": [
+                        "proquest_EVNAE"
+                    ],
+                    "recordtype": [
+                        "newspaper_article"
+                    ],
+                    "sourcerecordid": [
+                        "2529957969"
+                    ],
+                    "originalsourceid": [
+                        "FETCH-proquest_miscellaneous_25299579693"
+                    ],
+                    "pqid": [
+                        "2529957969"
+                    ],
+                    "addsrcrecordid": [
+                        "eNpjYuA0NDU11rUwsDTlYOAtLs4yMDAwMjA1NzC04GSwdMlXiMwvVfDJzE5VCMg8vDFRwTk_JzElsdhewTc1tUShJCNVwSOxKEUhODWnpCq1SCE4Nz-_JCMzlYeBNS0xpziVF0pzM2i4uYY4e-gWFOUXlqYWl8TnZhYnp-bkJOal5pcWxxuZGllamppbmlkak6AUAHf7Oes"
+                    ],
+                    "recordid": [
+                        "cdi_proquest_miscellaneous_2529957969"
+                    ],
+                    "score": [
+                        "0.014205445"
+                    ]
+                }
+            },
+            "delivery": {
+                "link": [],
+                "deliveryCategory": [
+                    "Remote Search Resource"
+                ],
+                "availability": [
+                    "fulltext_linktorsrc"
+                ],
+                "displayLocation": false,
+                "additionalLocations": false,
+                "physicalItemTextCodes": "",
+                "feDisplayOtherLocations": false,
+                "displayedAvailability": "true",
+                "holding": [],
+                "almaOpenurl": "https://na02.alma.exlibrisgroup.com/view/uresolver/01KSU_INST/openurl?ctx_enc=info:ofi/enc:UTF-8&ctx_id=10_1&ctx_tim=2024-10-17 13:41:30&ctx_ver=Z39.88-2004&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&url_ver=Z39.88-2004&rfr_id=info:sid/primo.exlibrisgroup.com-proquest_EVNAE&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.genre=article&rft.atitle=Do+You+Like+Pi%C3%B1a+Coladas%3F+Meet+the+Hard+Seltzer+Smoothie&rft.jtitle=New+York+Times+%28Online%29&rft.au=Bernstein%2C+Joshua+M&rft.date=2021-05-21&rft.eissn=1553-8095&rft.pub=New+York+Times+Company&rft.place=New+York&rft_dat=<proquest_EVNAE>2529957969</proquest_EVNAE>&svc_dat=viewit&rft_pqid=2529957969"
+            },
+            "context": "PC",
+            "adaptor": "Primo Central",
+            "extras": {
+                "citationTrails": {
+                    "citing": [],
+                    "citedby": []
+                },
+                "timesCited": {}
+            },
+            "@id": "https://na02.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/PC/cdi_proquest_miscellaneous_2529957969"
+        },
+        {
+            "pnx": {
+                "links": {
+                    "linktohtml": [
+                        "$$Uhttps://onlinelibrary.wiley.com/doi/full/10.1111%2Fj.1750-3841.2010.01980.x$$EHTML$$P50$$Gwiley$$H"
+                    ],
+                    "linktopdf": [
+                        "$$Uhttps://onlinelibrary.wiley.com/doi/pdf/10.1111%2Fj.1750-3841.2010.01980.x$$EPDF$$P50$$Gwiley$$H"
+                    ],
+                    "openurlfulltext": [
+                        "$$Topenurlfull_article"
+                    ],
+                    "backlink": [
+                        "$$Uhttp://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail&idt=23949901$$DView record in Pascal Francis$$Hfree_for_read",
+                        "$$Uhttps://www.ncbi.nlm.nih.gov/pubmed/21535794$$D View this record in MEDLINE/PubMed$$Hfree_for_read"
+                    ],
+                    "thumbnail": [
+                        "$$Tsyndetics_thumb_exl"
+                    ],
+                    "openurl": [
+                        "$$Topenurl_article"
+                    ]
+                },
+                "search": {
+                    "description": [
+                        ":  To evaluate the effectiveness of maize detoxification achieved with a modified tortilla‐making process (MTMP), maize contaminated with aflatoxin B1 (AFB1) and aflatoxin B2 (AFB2) at levels of 22.46, 69.62, and 141.48 ng/g (AFB1+ AFB2) was processed into tortillas. Aflatoxin content was determined according to the 991.31 AOAC official method. Based on the results obtained with spiked samples (0.78 to 25 ng/g), the mean recovery was 92%, with a standard error of 1.2, and a coefficient variation value of 4.4%. The MTMP caused 68, 80, and an 84% decrease in aflatoxin content, respectively. Extract acidification (as occurs during digestion) prior to mycotoxin quantification caused some reformation of the aflatoxin structure in tortillas (up to 3%). According to these results, the MTMP seems to be safe for decontamination since a low percentage of the initial aflatoxin concentration can be reverted to the original fluorescent form upon acidification.\nPractical Application:  The potential presence of aflatoxins in maize destined for human consumption is a serious problem to the Mexican food supply, as these toxic compounds may persist during the traditional alkaline‐process for tortilla elaboration. Consequently, new detoxification procedures are needed that eliminate or at least minimize the aflatoxin risk, through lowering aflatoxin concentration in maize‐based products. Under these considerations, the use of MTMP is recommended, since it has definite advantages including non‐production of wastewater and reduced energy/time consumption."
+                    ],
+                    "rsrctype": [
+                        "article"
+                    ],
+                    "creationdate": [
+                        "2011"
+                    ],
+                    "sourceid": [
+                        "ECM",
+                        "NPM",
+                        "7TV"
+                    ],
+                    "recordtype": [
+                        "article"
+                    ],
+                    "recordid": [
+                        "eNqNkc1uEzEUhS1ERUPhFdAICbGa1B7_b5BCaJNWTZEoCHaWM2MjJ5NxsWdo2qevTUKQWNWb63v9nSPbB4ACwTFK63Q1RpzCEguCxhVMU4ikgOPtMzA6HDwHIwirqkSI8GPwMsYVzD1mL8BxhSimXJIRuDmz1tR94W2xcHXwd_q3KeZG9677WTRDyGXSrnXrOlNOvV_nQYInttW937qumPqu1xvX6d40xUK7B_MKHFndRvN6X0_At_Ozr9N5efV5djGdXJU1kQyWRlKCpLWVrqVAmIklR7CqqUUNQ1w2ljfWSsY1XlaEammQ1UlIhUSYIAbxCXi_870N_tdgYq82LtambXVn_BCVYIQLJiR_Cokl5Uwk8u1_5MoPoUvPyBCjkFKSILGD0ofFGIxVt8FtdLhXCKockFqpnIPKOagckPoTkNom6Zu9_7DcmOYg_JtIAt7tAR1r3dqgu9rFfxyWREqIEvdhx9251tw_-QLq8vzTTd4mg3Jn4GJvtgcDHdaKccyp-n49U3M4u_7x5eNCUfwI_jS4nQ"
+                    ],
+                    "scope": [
+                        "BSCLL",
+                        "IQODW",
+                        "CGR",
+                        "CUY",
+                        "CVF",
+                        "ECM",
+                        "EIF",
+                        "NPM",
+                        "AAYXX",
+                        "CITATION",
+                        "7QO",
+                        "7QR",
+                        "7ST",
+                        "7T7",
+                        "7U7",
+                        "8FD",
+                        "C1K",
+                        "F28",
+                        "FR3",
+                        "P64",
+                        "RC3",
+                        "SOI",
+                        "7TV",
+                        "7X8"
+                    ],
+                    "title": [
+                        "Effect of Microwave Heating during Alkaline-Cooking of Aflatoxin Contaminated Maize",
+                        "Journal of food science"
+                    ],
+                    "addtitle": [
+                        "J Food Sci"
+                    ],
+                    "fulltext": [
+                        "true"
+                    ],
+                    "startdate": [
+                        "201103"
+                    ],
+                    "enddate": [
+                        "201103"
+                    ],
+                    "creator": [
+                        "Pérez-Flores, G.C.",
+                        "Moreno-Martínez, E.",
+                        "Méndez-Albores, A."
+                    ],
+                    "subject": [
+                        "Aflatoxins",
+                        "Aspergillus flavus",
+                        "Cooking",
+                        "Corn",
+                        "Decontamination",
+                        "Food contamination",
+                        "Food science",
+                        "Fungi",
+                        "Grain",
+                        "Heating",
+                        "Microwave heating",
+                        "Microwaves",
+                        "Toxins"
+                    ],
+                    "issn": [
+                        "0022-1147",
+                        "1750-3841"
+                    ],
+                    "general": [
+                        "Blackwell Publishing Inc",
+                        "Wiley",
+                        "Wiley Subscription Services, Inc"
+                    ],
+                    "creatorcontrib": [
+                        "Pérez-Flores, G.C.",
+                        "Moreno-Martínez, E.",
+                        "Méndez-Albores, A."
+                    ]
+                },
+                "display": {
+                    "description": [
+                        ":  To evaluate the effectiveness of maize detoxification achieved with a modified tortilla‐making process (MTMP), maize contaminated with aflatoxin B1 (AFB1) and aflatoxin B2 (AFB2) at levels of 22.46, 69.62, and 141.48 ng/g (AFB1+ AFB2) was processed into tortillas. Aflatoxin content was determined according to the 991.31 AOAC official method. Based on the results obtained with spiked samples (0.78 to 25 ng/g), the mean recovery was 92%, with a standard error of 1.2, and a coefficient variation value of 4.4%. The MTMP caused 68, 80, and an 84% decrease in aflatoxin content, respectively. Extract acidification (as occurs during digestion) prior to mycotoxin quantification caused some reformation of the aflatoxin structure in tortillas (up to 3%). According to these results, the MTMP seems to be safe for decontamination since a low percentage of the initial aflatoxin concentration can be reverted to the original fluorescent form upon acidification.\nPractical Application:  The potential presence of aflatoxins in maize destined for human consumption is a serious problem to the Mexican food supply, as these toxic compounds may persist during the traditional alkaline‐process for tortilla elaboration. Consequently, new detoxification procedures are needed that eliminate or at least minimize the aflatoxin risk, through lowering aflatoxin concentration in maize‐based products. Under these considerations, the use of MTMP is recommended, since it has definite advantages including non‐production of wastewater and reduced energy/time consumption."
+                    ],
+                    "language": [
+                        "eng"
+                    ],
+                    "title": [
+                        "Effect of Microwave Heating during Alkaline-Cooking of Aflatoxin Contaminated Maize"
+                    ],
+                    "creator": [
+                        "Pérez-Flores, G.C. ; Moreno-Martínez, E. ; Méndez-Albores, A."
+                    ],
+                    "subject": [
+                        "Aflatoxins ; Aspergillus flavus ; Cooking ; Corn ; Decontamination ; Food contamination ; Food science ; Fungi ; Grain ; Heating ; Microwave heating ; Microwaves ; Toxins"
+                    ],
+                    "lds50": [
+                        "peer_reviewed"
+                    ],
+                    "source": [
+                        "MEDLINE",
+                        "Wiley Online Library Journals",
+                        "Pollution Abstracts",
+                        "PubMed"
+                    ],
+                    "type": [
+                        "article"
+                    ],
+                    "rights": [
+                        "2011 Institute of Food Technologists",
+                        "2015 INIST-CNRS",
+                        "Copyright Institute of Food Technologists Mar 2011"
+                    ],
+                    "keyword": [
+                        "Aflatoxin B1 - analysis ; Aspergillus flavus - isolation & purification ; Biological and medical sciences ; Cereal and baking product industries ; Effects ; Food contamination & poisoning ; Food Handling - methods ; Food industries ; Food toxicology ; Fundamental and applied biological sciences. Psychology ; Index Medicus ; maize ; modified nixtamalization ; Zea mays - chemistry ; Zea mays - microbiology"
+                    ],
+                    "identifier": [
+                        "ISSN: 0022-1147",
+                        "EISSN: 1750-3841",
+                        "DOI: 10.1111/j.1750-3841.2010.01980.x",
+                        "PMID: 21535794",
+                        "CODEN: JFDSAZ"
+                    ],
+                    "ispartof": [
+                        "Journal of food science, 2011-03, Vol.76 (2), p.T48-T52"
+                    ],
+                    "publisher": [
+                        "Malden, USA: Blackwell Publishing Inc"
+                    ],
+                    "snippet": [
+                        "... the alkaline cooking process called nixtamalization. The traditional nixtamalization process (TNP) consists of the cooking of the grain in abundant water (2 to 3 L..."
+                    ]
+                },
+                "delivery": {
+                    "delcategory": [
+                        "Remote Search Resource"
+                    ],
+                    "fulltext": [
+                        "fulltext"
+                    ]
+                },
+                "addata": {
+                    "pub": [
+                        "Blackwell Publishing Inc"
+                    ],
+                    "epage": [
+                        "T52"
+                    ],
+                    "notes": [
+                        "ark:/67375/WNG-H0GNXRBM-5",
+                        "istex:91EE82EF78C6225A809C5E951F6FAFDD7B5AB29D",
+                        "ArticleID:JFDS1980",
+                        "ObjectType-Article-1",
+                        "SourceType-Scholarly Journals-1",
+                        "ObjectType-Feature-2",
+                        "content type line 23"
+                    ],
+                    "abstract": [
+                        ":  To evaluate the effectiveness of maize detoxification achieved with a modified tortilla‐making process (MTMP), maize contaminated with aflatoxin B1 (AFB1) and aflatoxin B2 (AFB2) at levels of 22.46, 69.62, and 141.48 ng/g (AFB1+ AFB2) was processed into tortillas. Aflatoxin content was determined according to the 991.31 AOAC official method. Based on the results obtained with spiked samples (0.78 to 25 ng/g), the mean recovery was 92%, with a standard error of 1.2, and a coefficient variation value of 4.4%. The MTMP caused 68, 80, and an 84% decrease in aflatoxin content, respectively. Extract acidification (as occurs during digestion) prior to mycotoxin quantification caused some reformation of the aflatoxin structure in tortillas (up to 3%). According to these results, the MTMP seems to be safe for decontamination since a low percentage of the initial aflatoxin concentration can be reverted to the original fluorescent form upon acidification.\nPractical Application:  The potential presence of aflatoxins in maize destined for human consumption is a serious problem to the Mexican food supply, as these toxic compounds may persist during the traditional alkaline‐process for tortilla elaboration. Consequently, new detoxification procedures are needed that eliminate or at least minimize the aflatoxin risk, through lowering aflatoxin concentration in maize‐based products. Under these considerations, the use of MTMP is recommended, since it has definite advantages including non‐production of wastewater and reduced energy/time consumption."
+                    ],
+                    "spage": [
+                        "T48"
+                    ],
+                    "format": [
+                        "journal"
+                    ],
+                    "au": [
+                        "Pérez-Flores, G.C.",
+                        "Moreno-Martínez, E.",
+                        "Méndez-Albores, A."
+                    ],
+                    "atitle": [
+                        "Effect of Microwave Heating during Alkaline-Cooking of Aflatoxin Contaminated Maize"
+                    ],
+                    "date": [
+                        "2011-03"
+                    ],
+                    "volume": [
+                        "76"
+                    ],
+                    "risdate": [
+                        "2011"
+                    ],
+                    "issue": [
+                        "2"
+                    ],
+                    "eissn": [
+                        "1750-3841"
+                    ],
+                    "pages": [
+                        "T48-T52"
+                    ],
+                    "coden": [
+                        "JFDSAZ"
+                    ],
+                    "ristype": [
+                        "JOUR"
+                    ],
+                    "cop": [
+                        "Malden, USA"
+                    ],
+                    "doi": [
+                        "10.1111/j.1750-3841.2010.01980.x"
+                    ],
+                    "pmid": [
+                        "21535794"
+                    ],
+                    "tpages": [
+                        "5"
+                    ],
+                    "addtitle": [
+                        "J Food Sci"
+                    ],
+                    "genre": [
+                        "article"
+                    ],
+                    "jtitle": [
+                        "Journal of food science"
+                    ],
+                    "issn": [
+                        "0022-1147"
+                    ]
+                },
+                "facets": {
+                    "rsrctype": [
+                        "articles"
+                    ],
+                    "language": [
+                        "eng"
+                    ],
+                    "toplevel": [
+                        "peer_reviewed",
+                        "online_resources"
+                    ],
+                    "collection": [
+                        "Istex",
+                        "Pascal-Francis",
+                        "Medline",
+                        "MEDLINE",
+                        "MEDLINE (Ovid)",
+                        "MEDLINE",
+                        "MEDLINE",
+                        "PubMed",
+                        "CrossRef",
+                        "Biotechnology Research Abstracts",
+                        "Chemoreception Abstracts",
+                        "Environment Abstracts",
+                        "Industrial and Applied Microbiology Abstracts (Microbiology A)",
+                        "Toxicology Abstracts",
+                        "Technology Research Database",
+                        "Environmental Sciences and Pollution Management",
+                        "ANTE: Abstracts in New Technology & Engineering",
+                        "Engineering Research Database",
+                        "Biotechnology and BioEngineering Abstracts",
+                        "Genetics Abstracts",
+                        "Environment Abstracts",
+                        "Pollution Abstracts",
+                        "MEDLINE - Academic"
+                    ],
+                    "frbrtype": [
+                        "5"
+                    ],
+                    "creationdate": [
+                        "2011"
+                    ],
+                    "frbrgroupid": [
+                        "cdi_FETCH-LOGICAL-c4960-e95419ff2ac981368b7102c5f1d6179df7dff967a3b245a9e1fa4965891341603"
+                    ],
+                    "jtitle": [
+                        "Journal of food science"
+                    ],
+                    "creatorcontrib": [
+                        "Pérez-Flores, G.C.",
+                        "Moreno-Martínez, E.",
+                        "Méndez-Albores, A."
+                    ],
+                    "prefilter": [
+                        "articles"
+                    ],
+                    "topic": [
+                        "Aflatoxins",
+                        "Aspergillus flavus",
+                        "Cooking",
+                        "Corn",
+                        "Decontamination",
+                        "Food contamination",
+                        "Food science",
+                        "Fungi",
+                        "Grain",
+                        "Heating",
+                        "Microwave heating",
+                        "Microwaves",
+                        "Toxins"
+                    ]
+                },
+                "sort": {
+                    "author": [
+                        "Pérez-Flores, G.C. ; Moreno-Martínez, E. ; Méndez-Albores, A."
+                    ],
+                    "creationdate": [
+                        "201103"
+                    ],
+                    "title": [
+                        "Effect of Microwave Heating during Alkaline-Cooking of Aflatoxin Contaminated Maize"
+                    ]
+                },
+                "control": {
+                    "sourcetype": [
+                        "Aggregation Database"
+                    ],
+                    "sourceformat": [
+                        "XML"
+                    ],
+                    "sourcesystem": [
+                        "Other"
+                    ],
+                    "sourceid": [
+                        "proquest_cross"
+                    ],
+                    "recordtype": [
+                        "article"
+                    ],
+                    "sourcerecordid": [
+                        "2336841371"
+                    ],
+                    "originalsourceid": [
+                        "FETCH-LOGICAL-c4960-e95419ff2ac981368b7102c5f1d6179df7dff967a3b245a9e1fa4965891341603"
+                    ],
+                    "pqid": [
+                        "864650554"
+                    ],
+                    "addsrcrecordid": [
+                        "eNqNkc1uEzEUhS1ERUPhFdAICbGa1B7_b5BCaJNWTZEoCHaWM2MjJ5NxsWdo2qevTUKQWNWb63v9nSPbB4ACwTFK63Q1RpzCEguCxhVMU4ikgOPtMzA6HDwHIwirqkSI8GPwMsYVzD1mL8BxhSimXJIRuDmz1tR94W2xcHXwd_q3KeZG9677WTRDyGXSrnXrOlNOvV_nQYInttW937qumPqu1xvX6d40xUK7B_MKHFndRvN6X0_At_Ozr9N5efV5djGdXJU1kQyWRlKCpLWVrqVAmIklR7CqqUUNQ1w2ljfWSsY1XlaEammQ1UlIhUSYIAbxCXi_870N_tdgYq82LtambXVn_BCVYIQLJiR_Cokl5Uwk8u1_5MoPoUvPyBCjkFKSILGD0ofFGIxVt8FtdLhXCKockFqpnIPKOagckPoTkNom6Zu9_7DcmOYg_JtIAt7tAR1r3dqgu9rFfxyWREqIEvdhx9251tw_-QLq8vzTTd4mg3Jn4GJvtgcDHdaKccyp-n49U3M4u_7x5eNCUfwI_jS4nQ"
+                    ],
+                    "recordid": [
+                        "cdi_proquest_miscellaneous_864786897"
+                    ],
+                    "score": [
+                        "0.013804684"
+                    ]
+                }
+            },
+            "delivery": {
+                "link": [],
+                "deliveryCategory": [
+                    "Remote Search Resource"
+                ],
+                "availability": [
+                    "fulltext"
+                ],
+                "displayLocation": false,
+                "additionalLocations": false,
+                "physicalItemTextCodes": "",
+                "feDisplayOtherLocations": false,
+                "displayedAvailability": "true",
+                "holding": [],
+                "almaOpenurl": "https://na02.alma.exlibrisgroup.com/view/uresolver/01KSU_INST/openurl?ctx_enc=info:ofi/enc:UTF-8&ctx_id=10_1&ctx_tim=2024-10-17 13:41:30&ctx_ver=Z39.88-2004&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&url_ver=Z39.88-2004&rfr_id=info:sid/primo.exlibrisgroup.com-proquest_cross&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.genre=article&rft.atitle=Effect+of+Microwave+Heating+during+Alkaline-Cooking+of+Aflatoxin+Contaminated+Maize&rft.jtitle=Journal+of+food+science&rft.au=P%C3%A9rez-Flores%2C+G.C.&rft.date=2011-03&rft.volume=76&rft.issue=2&rft.spage=T48&rft.epage=T52&rft.pages=T48-T52&rft.issn=0022-1147&rft.eissn=1750-3841&rft.coden=JFDSAZ&rft_id=info:doi/10.1111%2Fj.1750-3841.2010.01980.x&rft.pub=Blackwell+Publishing+Inc&rft.place=Malden%2C+USA&rft_id=info:pmid/21535794&rft_dat=<proquest_cross>2336841371</proquest_cross>&svc_dat=viewit&rft_pqid=864650554"
+            },
+            "context": "PC",
+            "adaptor": "Primo Central",
+            "extras": {
+                "citationTrails": {
+                    "citing": [
+                        "FETCH-LOGICAL-c4960-e95419ff2ac981368b7102c5f1d6179df7dff967a3b245a9e1fa4965891341603"
+                    ],
+                    "citedby": [
+                        "FETCH-LOGICAL-c4960-e95419ff2ac981368b7102c5f1d6179df7dff967a3b245a9e1fa4965891341603"
+                    ]
+                },
+                "timesCited": {}
+            },
+            "@id": "https://na02.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/PC/cdi_proquest_miscellaneous_864786897"
+        },
+        {
+            "pnx": {
+                "links": {
+                    "openurlfulltext": [
+                        "$$Topenurlfull_article"
+                    ],
+                    "thumbnail": [
+                        "$$Tsyndetics_thumb_exl"
+                    ],
+                    "openurl": [
+                        "$$Topenurl_article"
+                    ]
+                },
+                "search": {
+                    "rsrctype": [
+                        "book"
+                    ],
+                    "creationdate": [
+                        "2017"
+                    ],
+                    "sourceid": [
+                        ""
+                    ],
+                    "recordtype": [
+                        "book"
+                    ],
+                    "recordid": [
+                        "eNotjk1Lw0AURUdE0db8BclCcBV4M_Pma9nGGgvFgtR1mLxMJBo6mokL_72Rurrcw-Fyz9hCg7FKg-J4zjJn7NxnILmVl2zBhbAgUSJcsSyldwCQAAIVXLPbavTHmLchT37If_I4jTHlNPZp8kNIN-yi80MK2X8u2evj5lA-Fbt9tS1Xu4KkQVcI8tRJxACWeLDQgnYd10gdkqFmpkZaoaxRrgHNg260I68aE4i85k4u2f1p93OMX98hTXVoYvygcJxGP9SbdalRWIs4m3cns-3f-vlj7-s_M9UP22q9f169HIArJ38BBD9KhQ"
+                    ],
+                    "scope": [
+                        ""
+                    ],
+                    "title": [
+                        "Grano de sal y otros cristales"
+                    ],
+                    "fulltext": [
+                        "true"
+                    ],
+                    "startdate": [
+                        "2017"
+                    ],
+                    "enddate": [
+                        "2017"
+                    ],
+                    "creator": [
+                        "Castañón, Adolfo"
+                    ],
+                    "isbn": [
+                        "9786077853183",
+                        "9786078560042",
+                        "6078560042",
+                        "6077853186",
+                        "6078560514",
+                        "9786078560516"
+                    ],
+                    "subject": [
+                        "Cookbooks",
+                        "Cooking",
+                        "Cooking, Mexican",
+                        "Food habits",
+                        "Mexico"
+                    ],
+                    "general": [
+                        "Universidad del Claustro de Sor Juana",
+                        "Bonilla Artigas Editores",
+                        "Bonilla Artigas editores, S.A. de C.V"
+                    ],
+                    "creatorcontrib": [
+                        "Castañón, Adolfo"
+                    ]
+                },
+                "display": {
+                    "format": [
+                        "282"
+                    ],
+                    "language": [
+                        "spa"
+                    ],
+                    "creationdate": [
+                        "2017"
+                    ],
+                    "title": [
+                        "Grano de sal y otros cristales"
+                    ],
+                    "creator": [
+                        "Castañón, Adolfo"
+                    ],
+                    "subject": [
+                        "Cookbooks ; Cooking ; Cooking, Mexican ; Food habits ; Mexico"
+                    ],
+                    "source": [
+                        "Ebook Central Perpetual and DDA"
+                    ],
+                    "type": [
+                        "book"
+                    ],
+                    "relation": [
+                        "Las semanas del jardín"
+                    ],
+                    "identifier": [
+                        "ISBN: 9786077853183",
+                        "ISBN: 9786078560042",
+                        "ISBN: 6078560042",
+                        "ISBN: 6077853186",
+                        "EISBN: 6078560514",
+                        "EISBN: 9786078560516",
+                        "OCLC: 1228034340"
+                    ],
+                    "publisher": [
+                        "Ciudad de México: Universidad del Claustro de Sor Juana"
+                    ],
+                    "edition": [
+                        "1"
+                    ]
+                },
+                "delivery": {
+                    "delcategory": [
+                        "Remote Search Resource"
+                    ],
+                    "fulltext": [
+                        "fulltext"
+                    ]
+                },
+                "addata": {
+                    "pub": [
+                        "Universidad del Claustro de Sor Juana"
+                    ],
+                    "format": [
+                        "book"
+                    ],
+                    "au": [
+                        "Castañón, Adolfo"
+                    ],
+                    "btitle": [
+                        "Grano de sal y otros cristales"
+                    ],
+                    "date": [
+                        "2017"
+                    ],
+                    "seriestitle": [
+                        "Las semanas del jardín"
+                    ],
+                    "volume": [
+                        "12"
+                    ],
+                    "risdate": [
+                        "2017"
+                    ],
+                    "eisbn": [
+                        "6078560514",
+                        "9786078560516"
+                    ],
+                    "ristype": [
+                        "BOOK"
+                    ],
+                    "cop": [
+                        "Ciudad de México"
+                    ],
+                    "oclcid": [
+                        "1228034340"
+                    ],
+                    "tpages": [
+                        "282"
+                    ],
+                    "genre": [
+                        "book"
+                    ],
+                    "isbn": [
+                        "9786077853183",
+                        "9786078560042",
+                        "6078560042",
+                        "6077853186"
+                    ],
+                    "edition": [
+                        "1"
+                    ]
+                },
+                "facets": {
+                    "rsrctype": [
+                        "books"
+                    ],
+                    "language": [
+                        "spa"
+                    ],
+                    "toplevel": [
+                        "online_resources"
+                    ],
+                    "frbrtype": [
+                        "5"
+                    ],
+                    "creationdate": [
+                        "2017"
+                    ],
+                    "frbrgroupid": [
+                        "cdi_FETCH-LOGICAL-c3749-2cacf344e08c1e80d069f164cf4c7cb08c738258759b061e6b69ca5b7ecca6193"
+                    ],
+                    "creatorcontrib": [
+                        "Castañón, Adolfo"
+                    ],
+                    "prefilter": [
+                        "books"
+                    ],
+                    "topic": [
+                        "Cookbooks",
+                        "Cooking",
+                        "Cooking, Mexican",
+                        "Food habits",
+                        "Mexico"
+                    ]
+                },
+                "sort": {
+                    "author": [
+                        "Castañón, Adolfo"
+                    ],
+                    "creationdate": [
+                        "2017"
+                    ],
+                    "title": [
+                        "Grano de sal y otros cristales"
+                    ]
+                },
+                "control": {
+                    "sourcetype": [
+                        "Publisher"
+                    ],
+                    "sourceformat": [
+                        "XML"
+                    ],
+                    "sourcesystem": [
+                        "Other"
+                    ],
+                    "sourceid": [
+                        "proquest_digit"
+                    ],
+                    "recordtype": [
+                        "book"
+                    ],
+                    "sourcerecordid": [
+                        "EBC6428844"
+                    ],
+                    "originalsourceid": [
+                        "FETCH-LOGICAL-c3749-2cacf344e08c1e80d069f164cf4c7cb08c738258759b061e6b69ca5b7ecca6193"
+                    ],
+                    "pqid": [
+                        "EBC6428844"
+                    ],
+                    "addsrcrecordid": [
+                        "eNotjk1Lw0AURUdE0db8BclCcBV4M_Pma9nGGgvFgtR1mLxMJBo6mokL_72Rurrcw-Fyz9hCg7FKg-J4zjJn7NxnILmVl2zBhbAgUSJcsSyldwCQAAIVXLPbavTHmLchT37If_I4jTHlNPZp8kNIN-yi80MK2X8u2evj5lA-Fbt9tS1Xu4KkQVcI8tRJxACWeLDQgnYd10gdkqFmpkZaoaxRrgHNg260I68aE4i85k4u2f1p93OMX98hTXVoYvygcJxGP9SbdalRWIs4m3cns-3f-vlj7-s_M9UP22q9f169HIArJ38BBD9KhQ"
+                    ],
+                    "recordid": [
+                        "cdi_proquest_ebookcentral_EBC6428844"
+                    ],
+                    "score": [
+                        "0.01375715"
+                    ]
+                }
+            },
+            "delivery": {
+                "link": [],
+                "deliveryCategory": [
+                    "Remote Search Resource"
+                ],
+                "availability": [
+                    "fulltext"
+                ],
+                "displayLocation": false,
+                "additionalLocations": false,
+                "physicalItemTextCodes": "",
+                "feDisplayOtherLocations": false,
+                "displayedAvailability": "true",
+                "holding": [],
+                "almaOpenurl": "https://na02.alma.exlibrisgroup.com/view/uresolver/01KSU_INST/openurl?ctx_enc=info:ofi/enc:UTF-8&ctx_id=10_1&ctx_tim=2024-10-17 13:41:30&ctx_ver=Z39.88-2004&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&url_ver=Z39.88-2004&rfr_id=info:sid/primo.exlibrisgroup.com-proquest_digit&rft_val_fmt=info:ofi/fmt:kev:mtx:book&rft.genre=book&rft.btitle=Grano+de+sal+y+otros+cristales&rft.au=Castan%CC%83o%CC%81n%2C+Adolfo&rft.date=2017&rft.volume=12&rft.isbn=9786077853183&rft.eisbn=6078560514&rft.edition=1&rft.pub=Universidad+del+Claustro+de+Sor+Juana&rft.place=Ciudad+de+Me%CC%81xico&rft.series=Las+semanas+del+jardi%CC%81n&rft_id=info:oclcnum/1228034340&rft_dat=<proquest_digit>EBC6428844</proquest_digit>&svc_dat=viewit&rft_pqid=EBC6428844"
+            },
+            "context": "PC",
+            "adaptor": "Primo Central",
+            "extras": {
+                "citationTrails": {
+                    "citing": [],
+                    "citedby": []
+                },
+                "timesCited": {}
+            },
+            "@id": "https://na02.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/PC/cdi_proquest_ebookcentral_EBC6428844"
+        },
+        {
+            "pnx": {
+                "links": {
+                    "linktohtml": [
+                        "$$Uhttps://dx.doi.org/10.1016/j.jcs.2016.02.009$$EHTML$$P50$$Gelsevier$$H"
+                    ],
+                    "openurlfulltext": [
+                        "$$Topenurlfull_article"
+                    ],
+                    "thumbnail": [
+                        "$$Tsyndetics_thumb_exl"
+                    ],
+                    "openurl": [
+                        "$$Topenurl_article"
+                    ]
+                },
+                "search": {
+                    "description": [
+                        "Mexican pigmented maize (Zea mays L.) landrace kernels have been scantily evaluated regarding potential as functional food. In this study, eight Mexican pigmented (yellow and red) maize accessions of Tuxpeño, Tabloncillo and Chapalote landraces collected in the northwestern region of Mexico were processed into tortilla to determinate carotenoid profiles, as well as their Oxygen Radical Absorbance Capacity for Lipophilic extract (ORAC-L). The total carotenoid content ranged from 3.66 to 5.56 mg LE/kg DW in the yellow maize and from 1.49 to 3.49 mg LE/kg DW in the red maize among all raw genotypes. Lutein and zeaxanthin were major carotenoids in all pigmented maize, accounting for ∼85% of total carotenoids. The traditional nixtamalization and lime-cooking extrusion process significantly (p < 0.05) decrease total carotenoid and ORAC-L assays when compared to raw kernels. Traditional tortillas retained among 72.0–87.6% and 65.1–78.8% of total carotenoids and ORAC-L levels respectively, compared to 68.8–79.5% and 60.3–75.5% assayed in extruded tortillas. Interestingly, traditional and extruded tortillas maintained more 72.7 and 60%, respectively; of the lutein concentration associated with raw grains. Our results suggest that yellow maize landrace could be considered for the elaboration of nixtamalized food products with nutraceutical potential.\n•Nixtamalization and Lime cooking extrusion caused losses of carotenoids.•Nixtamalized tortillas showed higher levels of total carotenoids and ORAC-L.•More than 60.0% of the lutein levels were retained by both tortillas."
+                    ],
+                    "rsrctype": [
+                        "article"
+                    ],
+                    "creationdate": [
+                        "2016"
+                    ],
+                    "recordtype": [
+                        "article"
+                    ],
+                    "recordid": [
+                        "eNp9UMtOAzEMjBBIlMIHcMsP7JLssxEnVPGSKnGBc-RN3Mpld1MloWr7QXwnKeWMZMtj2TO2hrFbKXIpZHO3ztcm5EWCuShyIdQZm0ih6kyppjxnE9GWZVYXUlyyqxDWIm2kmLDvOXgXcXRkuXHDxgWK5EYOo02Z4I5sqhxMpC3FPXdLHp2P1PcQOPbQOQ8RLV96N_ANrQYcj-0AdEDeJxkPBnm359GD_dWGno-0izBATwf4veY872nA9IH7pHHFcRf9VzhONt4ZDOGaXSyhD3jzV6fs4-nxff6SLd6eX-cPi8wUqo2ZrJq6ElIawA4kzDoljWlkVbU4A1XNGtsYW5WqU1CKomhnrWiVbapKQN2USpRTJk-6xrsQPC71xtMAfq-l0Eej9Vono_XRaC0KnTxMnPsTB9NjW0KvgyEcDVryaKK2jv5h_wD7WYuE"
+                    ],
+                    "scope": [
+                        "AAYXX",
+                        "CITATION"
+                    ],
+                    "title": [
+                        "Carotenoid composition and antioxidant activity of tortillas elaborated from pigmented maize landrace by traditional nixtamalization or lime cooking extrusion process",
+                        "Journal of cereal science"
+                    ],
+                    "fulltext": [
+                        "true"
+                    ],
+                    "startdate": [
+                        "201605"
+                    ],
+                    "enddate": [
+                        "201605"
+                    ],
+                    "creator": [
+                        "Corrales-Bañuelos, Ana Belinda",
+                        "Cuevas-Rodríguez, Edith Oliva",
+                        "Gutiérrez-Uribe, Janet Alejandra",
+                        "Milán-Noris, Evelia María",
+                        "Reyes-Moreno, Cuauhtémoc",
+                        "Milán-Carrillo, Jorge",
+                        "Mora-Rochín, Saraid"
+                    ],
+                    "subject": [
+                        "Carotenoids"
+                    ],
+                    "issn": [
+                        "0733-5210",
+                        "1095-9963"
+                    ],
+                    "general": [
+                        "Elsevier Ltd"
+                    ],
+                    "creatorcontrib": [
+                        "Corrales-Bañuelos, Ana Belinda",
+                        "Cuevas-Rodríguez, Edith Oliva",
+                        "Gutiérrez-Uribe, Janet Alejandra",
+                        "Milán-Noris, Evelia María",
+                        "Reyes-Moreno, Cuauhtémoc",
+                        "Milán-Carrillo, Jorge",
+                        "Mora-Rochín, Saraid"
+                    ]
+                },
+                "display": {
+                    "description": [
+                        "Mexican pigmented maize (Zea mays L.) landrace kernels have been scantily evaluated regarding potential as functional food. In this study, eight Mexican pigmented (yellow and red) maize accessions of Tuxpeño, Tabloncillo and Chapalote landraces collected in the northwestern region of Mexico were processed into tortilla to determinate carotenoid profiles, as well as their Oxygen Radical Absorbance Capacity for Lipophilic extract (ORAC-L). The total carotenoid content ranged from 3.66 to 5.56 mg LE/kg DW in the yellow maize and from 1.49 to 3.49 mg LE/kg DW in the red maize among all raw genotypes. Lutein and zeaxanthin were major carotenoids in all pigmented maize, accounting for ∼85% of total carotenoids. The traditional nixtamalization and lime-cooking extrusion process significantly (p < 0.05) decrease total carotenoid and ORAC-L assays when compared to raw kernels. Traditional tortillas retained among 72.0–87.6% and 65.1–78.8% of total carotenoids and ORAC-L levels respectively, compared to 68.8–79.5% and 60.3–75.5% assayed in extruded tortillas. Interestingly, traditional and extruded tortillas maintained more 72.7 and 60%, respectively; of the lutein concentration associated with raw grains. Our results suggest that yellow maize landrace could be considered for the elaboration of nixtamalized food products with nutraceutical potential.\n•Nixtamalization and Lime cooking extrusion caused losses of carotenoids.•Nixtamalized tortillas showed higher levels of total carotenoids and ORAC-L.•More than 60.0% of the lutein levels were retained by both tortillas."
+                    ],
+                    "language": [
+                        "eng"
+                    ],
+                    "title": [
+                        "Carotenoid composition and antioxidant activity of tortillas elaborated from pigmented maize landrace by traditional nixtamalization or lime cooking extrusion process"
+                    ],
+                    "creator": [
+                        "Corrales-Bañuelos, Ana Belinda ; Cuevas-Rodríguez, Edith Oliva ; Gutiérrez-Uribe, Janet Alejandra ; Milán-Noris, Evelia María ; Reyes-Moreno, Cuauhtémoc ; Milán-Carrillo, Jorge ; Mora-Rochín, Saraid"
+                    ],
+                    "subject": [
+                        "Carotenoids"
+                    ],
+                    "lds50": [
+                        "peer_reviewed"
+                    ],
+                    "source": [
+                        "Elsevier ScienceDirect Journals Complete"
+                    ],
+                    "type": [
+                        "article"
+                    ],
+                    "rights": [
+                        "2016 Elsevier Ltd"
+                    ],
+                    "keyword": [
+                        "Lime cooking extrusion ; Maize landrace ; Nixtamalization"
+                    ],
+                    "identifier": [
+                        "ISSN: 0733-5210",
+                        "EISSN: 1095-9963",
+                        "DOI: 10.1016/j.jcs.2016.02.009"
+                    ],
+                    "ispartof": [
+                        "Journal of cereal science, 2016-05, Vol.69, p.64-70"
+                    ],
+                    "publisher": [
+                        "Elsevier Ltd"
+                    ],
+                    "snippet": [
+                        "Mexican pigmented maize (Zea mays L.) landrace kernels have been scantily evaluated regarding potential as functional food..."
+                    ]
+                },
+                "delivery": {
+                    "delcategory": [
+                        "Remote Search Resource"
+                    ],
+                    "fulltext": [
+                        "fulltext"
+                    ]
+                },
+                "addata": {
+                    "pub": [
+                        "Elsevier Ltd"
+                    ],
+                    "epage": [
+                        "70"
+                    ],
+                    "abstract": [
+                        "Mexican pigmented maize (Zea mays L.) landrace kernels have been scantily evaluated regarding potential as functional food. In this study, eight Mexican pigmented (yellow and red) maize accessions of Tuxpeño, Tabloncillo and Chapalote landraces collected in the northwestern region of Mexico were processed into tortilla to determinate carotenoid profiles, as well as their Oxygen Radical Absorbance Capacity for Lipophilic extract (ORAC-L). The total carotenoid content ranged from 3.66 to 5.56 mg LE/kg DW in the yellow maize and from 1.49 to 3.49 mg LE/kg DW in the red maize among all raw genotypes. Lutein and zeaxanthin were major carotenoids in all pigmented maize, accounting for ∼85% of total carotenoids. The traditional nixtamalization and lime-cooking extrusion process significantly (p < 0.05) decrease total carotenoid and ORAC-L assays when compared to raw kernels. Traditional tortillas retained among 72.0–87.6% and 65.1–78.8% of total carotenoids and ORAC-L levels respectively, compared to 68.8–79.5% and 60.3–75.5% assayed in extruded tortillas. Interestingly, traditional and extruded tortillas maintained more 72.7 and 60%, respectively; of the lutein concentration associated with raw grains. Our results suggest that yellow maize landrace could be considered for the elaboration of nixtamalized food products with nutraceutical potential.\n•Nixtamalization and Lime cooking extrusion caused losses of carotenoids.•Nixtamalized tortillas showed higher levels of total carotenoids and ORAC-L.•More than 60.0% of the lutein levels were retained by both tortillas."
+                    ],
+                    "spage": [
+                        "64"
+                    ],
+                    "format": [
+                        "journal"
+                    ],
+                    "au": [
+                        "Corrales-Bañuelos, Ana Belinda",
+                        "Cuevas-Rodríguez, Edith Oliva",
+                        "Gutiérrez-Uribe, Janet Alejandra",
+                        "Milán-Noris, Evelia María",
+                        "Reyes-Moreno, Cuauhtémoc",
+                        "Milán-Carrillo, Jorge",
+                        "Mora-Rochín, Saraid"
+                    ],
+                    "atitle": [
+                        "Carotenoid composition and antioxidant activity of tortillas elaborated from pigmented maize landrace by traditional nixtamalization or lime cooking extrusion process"
+                    ],
+                    "date": [
+                        "2016-05"
+                    ],
+                    "volume": [
+                        "69"
+                    ],
+                    "risdate": [
+                        "2016"
+                    ],
+                    "eissn": [
+                        "1095-9963"
+                    ],
+                    "pages": [
+                        "64-70"
+                    ],
+                    "ristype": [
+                        "JOUR"
+                    ],
+                    "doi": [
+                        "10.1016/j.jcs.2016.02.009"
+                    ],
+                    "tpages": [
+                        "7"
+                    ],
+                    "genre": [
+                        "article"
+                    ],
+                    "jtitle": [
+                        "Journal of cereal science"
+                    ],
+                    "issn": [
+                        "0733-5210"
+                    ]
+                },
+                "facets": {
+                    "rsrctype": [
+                        "articles"
+                    ],
+                    "language": [
+                        "eng"
+                    ],
+                    "toplevel": [
+                        "peer_reviewed",
+                        "online_resources"
+                    ],
+                    "collection": [
+                        "CrossRef"
+                    ],
+                    "frbrtype": [
+                        "5"
+                    ],
+                    "creationdate": [
+                        "2016"
+                    ],
+                    "frbrgroupid": [
+                        "cdi_FETCH-LOGICAL-c297t-14654011caeba1a8b91cc61447e8a9486d6cd439b9a3022787079d6440a563903"
+                    ],
+                    "jtitle": [
+                        "Journal of cereal science"
+                    ],
+                    "creatorcontrib": [
+                        "Corrales-Bañuelos, Ana Belinda",
+                        "Cuevas-Rodríguez, Edith Oliva",
+                        "Gutiérrez-Uribe, Janet Alejandra",
+                        "Milán-Noris, Evelia María",
+                        "Reyes-Moreno, Cuauhtémoc",
+                        "Milán-Carrillo, Jorge",
+                        "Mora-Rochín, Saraid"
+                    ],
+                    "prefilter": [
+                        "articles"
+                    ],
+                    "topic": [
+                        "Carotenoids"
+                    ]
+                },
+                "sort": {
+                    "author": [
+                        "Corrales-Bañuelos, Ana Belinda ; Cuevas-Rodríguez, Edith Oliva ; Gutiérrez-Uribe, Janet Alejandra ; Milán-Noris, Evelia María ; Reyes-Moreno, Cuauhtémoc ; Milán-Carrillo, Jorge ; Mora-Rochín, Saraid"
+                    ],
+                    "creationdate": [
+                        "201605"
+                    ],
+                    "title": [
+                        "Carotenoid composition and antioxidant activity of tortillas elaborated from pigmented maize landrace by traditional nixtamalization or lime cooking extrusion process"
+                    ]
+                },
+                "control": {
+                    "sourcetype": [
+                        "Aggregation Database"
+                    ],
+                    "sourceformat": [
+                        "XML"
+                    ],
+                    "sourcesystem": [
+                        "Other"
+                    ],
+                    "sourceid": [
+                        "elsevier_cross"
+                    ],
+                    "recordtype": [
+                        "article"
+                    ],
+                    "sourcerecordid": [
+                        "S0733521016300224"
+                    ],
+                    "originalsourceid": [
+                        "FETCH-LOGICAL-c297t-14654011caeba1a8b91cc61447e8a9486d6cd439b9a3022787079d6440a563903"
+                    ],
+                    "addsrcrecordid": [
+                        "eNp9UMtOAzEMjBBIlMIHcMsP7JLssxEnVPGSKnGBc-RN3Mpld1MloWr7QXwnKeWMZMtj2TO2hrFbKXIpZHO3ztcm5EWCuShyIdQZm0ih6kyppjxnE9GWZVYXUlyyqxDWIm2kmLDvOXgXcXRkuXHDxgWK5EYOo02Z4I5sqhxMpC3FPXdLHp2P1PcQOPbQOQ8RLV96N_ANrQYcj-0AdEDeJxkPBnm359GD_dWGno-0izBATwf4veY872nA9IH7pHHFcRf9VzhONt4ZDOGaXSyhD3jzV6fs4-nxff6SLd6eX-cPi8wUqo2ZrJq6ElIawA4kzDoljWlkVbU4A1XNGtsYW5WqU1CKomhnrWiVbapKQN2USpRTJk-6xrsQPC71xtMAfq-l0Eej9Vono_XRaC0KnTxMnPsTB9NjW0KvgyEcDVryaKK2jv5h_wD7WYuE"
+                    ],
+                    "recordid": [
+                        "cdi_crossref_primary_10_1016_j_jcs_2016_02_009"
+                    ],
+                    "elsid": [
+                        "S0733521016300224"
+                    ],
+                    "score": [
+                        "0.013657931"
+                    ]
+                }
+            },
+            "delivery": {
+                "link": [],
+                "deliveryCategory": [
+                    "Remote Search Resource"
+                ],
+                "availability": [
+                    "fulltext"
+                ],
+                "displayLocation": false,
+                "additionalLocations": false,
+                "physicalItemTextCodes": "",
+                "feDisplayOtherLocations": false,
+                "displayedAvailability": "true",
+                "holding": [],
+                "almaOpenurl": "https://na02.alma.exlibrisgroup.com/view/uresolver/01KSU_INST/openurl?ctx_enc=info:ofi/enc:UTF-8&ctx_id=10_1&ctx_tim=2024-10-17 13:41:30&ctx_ver=Z39.88-2004&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&url_ver=Z39.88-2004&rfr_id=info:sid/primo.exlibrisgroup.com-elsevier_cross&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.genre=article&rft.atitle=Carotenoid+composition+and+antioxidant+activity+of+tortillas+elaborated+from+pigmented+maize+landrace+by+traditional+nixtamalization+or+lime+cooking+extrusion+process&rft.jtitle=Journal+of+cereal+science&rft.au=Corrales-Ba%C3%B1uelos%2C+Ana+Belinda&rft.date=2016-05&rft.volume=69&rft.spage=64&rft.epage=70&rft.pages=64-70&rft.issn=0733-5210&rft.eissn=1095-9963&rft_id=info:doi/10.1016%2Fj.jcs.2016.02.009&rft.pub=Elsevier+Ltd&rft_dat=<elsevier_cross>S0733521016300224</elsevier_cross>&svc_dat=viewit"
+            },
+            "context": "PC",
+            "adaptor": "Primo Central",
+            "extras": {
+                "citationTrails": {
+                    "citing": [
+                        "FETCH-LOGICAL-c297t-14654011caeba1a8b91cc61447e8a9486d6cd439b9a3022787079d6440a563903"
+                    ],
+                    "citedby": [
+                        "FETCH-LOGICAL-c297t-14654011caeba1a8b91cc61447e8a9486d6cd439b9a3022787079d6440a563903"
+                    ]
+                },
+                "timesCited": {}
+            },
+            "@id": "https://na02.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/PC/cdi_crossref_primary_10_1016_j_jcs_2016_02_009"
+        },
+        {
+            "pnx": {
+                "links": {
+                    "linktohtml": [
+                        "$$Uhttps://www.tandfonline.com/doi/full/10.1080/19476330903119218$$EHTML$$P50$$Ginformaworld$$H"
+                    ],
+                    "linktopdf": [
+                        "$$Uhttps://www.tandfonline.com/doi/pdf/10.1080/19476330903119218$$EPDF$$P50$$Ginformaworld$$H"
+                    ],
+                    "openurlfulltext": [
+                        "$$Topenurlfull_article"
+                    ],
+                    "linktorsrc": [
+                        "$$Uhttps://www.tandfonline.com/doi/abs/10.1080/19476330903119218$$EView_record_in_Taylor_&_Francis$$FView_record_in_$$GTaylor_&_Francis"
+                    ],
+                    "thumbnail": [
+                        "$$Tsyndetics_thumb_exl"
+                    ],
+                    "openurl": [
+                        "$$Topenurl_article"
+                    ]
+                },
+                "search": {
+                    "description": [
+                        "The consumption of legume seeds in developing countries is very important because of their low cost and valuable nutritional characteristics (high protein, digestible and indigestible carbohydrates, and polyphenols content). However, limited information is available on the indigestible carbohydrates and the antioxidant capacity of legumes growing in Mexico. The cooked seeds of three Mexican pulses (black bean, chickpea, and lentil) were evaluated regarding their chemical composition, in vitro starch digestibility, polyphenols content and antioxidant capacity. The highest protein contents were recorded in chickpeas and lentils with no difference between them. Black bean presented the highest dietary fiber, resistant starch, and total indigestible fraction contents. The highest polyphenols and anthocyanins contents were shown by lentil and black bean, respectively. However, black bean exhibited the highest antioxidant capacity, which suggess an important role for anthocyanins in this effect. Present data confirm these legumes as a good source of indigestible carbohydrates and natural antioxidants; their consumption might have a role in preventing diabetes and other chronic-degenerative diseases."
+                    ],
+                    "rsrctype": [
+                        "article"
+                    ],
+                    "creationdate": [
+                        "2010"
+                    ],
+                    "recordtype": [
+                        "article"
+                    ],
+                    "recordid": [
+                        "eNqFUd2K1DAUrrKC6-oDeCHkATqaNG3agjcyuCqs7I1el9PkZCYzaTMmdZ3uO3nlI-yLmdhBFhb0Ipxwvl84WfaS0deMNvQNa8tacE5byhlrC9Y8zs7TbiV4WZ39_fP6afYshB2loqoLcf7o1XqLg5FgiXTDwQUzGTfmRILv3XZWHiYkymwwTKY31kxzTmBU8UXe0ag4I_cAMiLE6Wji9qhIb0HuSY-QrLZG7g8Ii9BiVFryGY8xdCQ34A1OBgNZL_HS3P0aybfvdz9Tq_x-tgJFFJ6qmVTNhZzMp_yE3muFifrHPQLRflgCIcSKiRwSrr3ZOUtG3HiXk000hvHWJc9UE3fwPHuiwQZ8cZoX2dfL91_WH1dX1x8-rd9drSQvxbSCglWaSkFBVj22raillCVUGitRiniYWgHVJQiktKQYMc4bLJoGCt6U2PCLjC2-0rsQPOru4M0Afu4Y7dJ9uwf3jZq3i8aM2vkBfjhvVTfBbJ3XHkZpQsf_Ja__K3-g6qbjxH8DbonGsQ"
+                    ],
+                    "scope": [
+                        "AAYXX",
+                        "CITATION"
+                    ],
+                    "title": [
+                        "Chemical composition, carbohydrate digestibility, and antioxidant capacity of cooked black bean, chickpea, and lentil Mexican varieties Composición química, digestibilidad de carbohidratos, y capacidad antioxidante de variedades mexicanas cocidas de frijol negro, garbanzo, y lenteja",
+                        "CYTA: journal of food"
+                    ],
+                    "fulltext": [
+                        "true"
+                    ],
+                    "startdate": [
+                        "20100501"
+                    ],
+                    "enddate": [
+                        "20100501"
+                    ],
+                    "creator": [
+                        "Silva-Cristobal, L.",
+                        "Osorio-Díaz, P.",
+                        "Tovar, J.",
+                        "Bello-Pérez, L. A."
+                    ],
+                    "subject": [
+                        "Chickpea",
+                        "Cicer",
+                        "Fiber in human nutrition",
+                        "Lentils"
+                    ],
+                    "issn": [
+                        "1947-6337",
+                        "1947-6345"
+                    ],
+                    "general": [
+                        "Taylor & Francis"
+                    ],
+                    "creatorcontrib": [
+                        "Silva-Cristobal, L.",
+                        "Osorio-Díaz, P.",
+                        "Tovar, J.",
+                        "Bello-Pérez, L. A."
+                    ]
+                },
+                "display": {
+                    "description": [
+                        "The consumption of legume seeds in developing countries is very important because of their low cost and valuable nutritional characteristics (high protein, digestible and indigestible carbohydrates, and polyphenols content). However, limited information is available on the indigestible carbohydrates and the antioxidant capacity of legumes growing in Mexico. The cooked seeds of three Mexican pulses (black bean, chickpea, and lentil) were evaluated regarding their chemical composition, in vitro starch digestibility, polyphenols content and antioxidant capacity. The highest protein contents were recorded in chickpeas and lentils with no difference between them. Black bean presented the highest dietary fiber, resistant starch, and total indigestible fraction contents. The highest polyphenols and anthocyanins contents were shown by lentil and black bean, respectively. However, black bean exhibited the highest antioxidant capacity, which suggess an important role for anthocyanins in this effect. Present data confirm these legumes as a good source of indigestible carbohydrates and natural antioxidants; their consumption might have a role in preventing diabetes and other chronic-degenerative diseases."
+                    ],
+                    "language": [
+                        "eng"
+                    ],
+                    "title": [
+                        "Chemical composition, carbohydrate digestibility, and antioxidant capacity of cooked black bean, chickpea, and lentil Mexican varieties Composición química, digestibilidad de carbohidratos, y capacidad antioxidante de variedades mexicanas cocidas de frijol negro, garbanzo, y lenteja"
+                    ],
+                    "creator": [
+                        "Silva-Cristobal, L. ; Osorio-Díaz, P. ; Tovar, J. ; Bello-Pérez, L. A."
+                    ],
+                    "subject": [
+                        "Chickpea ; Cicer ; Fiber in human nutrition ; Lentils"
+                    ],
+                    "lds50": [
+                        "peer_reviewed"
+                    ],
+                    "source": [
+                        "Taylor & Francis Open Access"
+                    ],
+                    "type": [
+                        "article"
+                    ],
+                    "rights": [
+                        "Copyright Taylor & Francis Group, LLC 2010"
+                    ],
+                    "keyword": [
+                        "black beans ; chickpeas ; digestibilidad del almidón ; fibra dietética ; fracción indigerible ; frijol negro ; indigestible fraction ; lentejas ; starch digestibility"
+                    ],
+                    "identifier": [
+                        "ISSN: 1947-6337",
+                        "EISSN: 1947-6345",
+                        "DOI: 10.1080/19476330903119218"
+                    ],
+                    "ispartof": [
+                        "CYTA: journal of food, 2010-05, Vol.8 (1), p.7-14"
+                    ],
+                    "publisher": [
+                        "Taylor & Francis"
+                    ],
+                    "snippet": [
+                        ".... The cooked seeds of three Mexican pulses (black bean, chickpea, and lentil) were evaluated regarding their chemical composition, in vitro starch digestibility, polyphenols content and antioxidant capacity..."
+                    ]
+                },
+                "delivery": {
+                    "delcategory": [
+                        "Remote Search Resource"
+                    ],
+                    "fulltext": [
+                        "fulltext_linktorsrc"
+                    ]
+                },
+                "addata": {
+                    "pub": [
+                        "Taylor & Francis"
+                    ],
+                    "epage": [
+                        "14"
+                    ],
+                    "abstract": [
+                        "The consumption of legume seeds in developing countries is very important because of their low cost and valuable nutritional characteristics (high protein, digestible and indigestible carbohydrates, and polyphenols content). However, limited information is available on the indigestible carbohydrates and the antioxidant capacity of legumes growing in Mexico. The cooked seeds of three Mexican pulses (black bean, chickpea, and lentil) were evaluated regarding their chemical composition, in vitro starch digestibility, polyphenols content and antioxidant capacity. The highest protein contents were recorded in chickpeas and lentils with no difference between them. Black bean presented the highest dietary fiber, resistant starch, and total indigestible fraction contents. The highest polyphenols and anthocyanins contents were shown by lentil and black bean, respectively. However, black bean exhibited the highest antioxidant capacity, which suggess an important role for anthocyanins in this effect. Present data confirm these legumes as a good source of indigestible carbohydrates and natural antioxidants; their consumption might have a role in preventing diabetes and other chronic-degenerative diseases."
+                    ],
+                    "spage": [
+                        "7"
+                    ],
+                    "format": [
+                        "journal"
+                    ],
+                    "au": [
+                        "Silva-Cristobal, L.",
+                        "Osorio-Díaz, P.",
+                        "Tovar, J.",
+                        "Bello-Pérez, L. A."
+                    ],
+                    "atitle": [
+                        "Chemical composition, carbohydrate digestibility, and antioxidant capacity of cooked black bean, chickpea, and lentil Mexican varieties Composición química, digestibilidad de carbohidratos, y capacidad antioxidante de variedades mexicanas cocidas de frijol negro, garbanzo, y lenteja"
+                    ],
+                    "date": [
+                        "2010-05-01"
+                    ],
+                    "volume": [
+                        "8"
+                    ],
+                    "risdate": [
+                        "2010"
+                    ],
+                    "issue": [
+                        "1"
+                    ],
+                    "eissn": [
+                        "1947-6345"
+                    ],
+                    "pages": [
+                        "7-14"
+                    ],
+                    "ristype": [
+                        "JOUR"
+                    ],
+                    "doi": [
+                        "10.1080/19476330903119218"
+                    ],
+                    "tpages": [
+                        "8"
+                    ],
+                    "genre": [
+                        "article"
+                    ],
+                    "jtitle": [
+                        "CYTA: journal of food"
+                    ],
+                    "issn": [
+                        "1947-6337"
+                    ]
+                },
+                "facets": {
+                    "rsrctype": [
+                        "articles"
+                    ],
+                    "language": [
+                        "eng"
+                    ],
+                    "toplevel": [
+                        "peer_reviewed",
+                        "online_resources"
+                    ],
+                    "collection": [
+                        "CrossRef"
+                    ],
+                    "frbrtype": [
+                        "5"
+                    ],
+                    "creationdate": [
+                        "2010"
+                    ],
+                    "frbrgroupid": [
+                        "cdi_FETCH-LOGICAL-c346t-a215f0c60ac5be9967ccc4a5fe56464767da0f4a6e0040ecc4338e288a2384e83"
+                    ],
+                    "jtitle": [
+                        "CYTA: journal of food"
+                    ],
+                    "creatorcontrib": [
+                        "Silva-Cristobal, L.",
+                        "Osorio-Díaz, P.",
+                        "Tovar, J.",
+                        "Bello-Pérez, L. A."
+                    ],
+                    "prefilter": [
+                        "articles"
+                    ],
+                    "topic": [
+                        "Chickpea",
+                        "Cicer",
+                        "Fiber in human nutrition",
+                        "Lentils"
+                    ]
+                },
+                "sort": {
+                    "author": [
+                        "Silva-Cristobal, L. ; Osorio-Díaz, P. ; Tovar, J. ; Bello-Pérez, L. A."
+                    ],
+                    "creationdate": [
+                        "20100501"
+                    ],
+                    "title": [
+                        "Chemical composition, carbohydrate digestibility, and antioxidant capacity of cooked black bean, chickpea, and lentil Mexican varieties Composición química, digestibilidad de carbohidratos, y capacidad antioxidante de variedades mexicanas cocidas de frijol negro, garbanzo, y lenteja"
+                    ]
+                },
+                "control": {
+                    "sourcetype": [
+                        "Aggregation Database"
+                    ],
+                    "sourceformat": [
+                        "XML"
+                    ],
+                    "sourcesystem": [
+                        "Other"
+                    ],
+                    "sourceid": [
+                        "crossref_0YH"
+                    ],
+                    "recordtype": [
+                        "article"
+                    ],
+                    "sourcerecordid": [
+                        "10_1080_19476330903119218"
+                    ],
+                    "originalsourceid": [
+                        "FETCH-LOGICAL-c346t-a215f0c60ac5be9967ccc4a5fe56464767da0f4a6e0040ecc4338e288a2384e83"
+                    ],
+                    "addsrcrecordid": [
+                        "eNqFUd2K1DAUrrKC6-oDeCHkATqaNG3agjcyuCqs7I1el9PkZCYzaTMmdZ3uO3nlI-yLmdhBFhb0Ipxwvl84WfaS0deMNvQNa8tacE5byhlrC9Y8zs7TbiV4WZ39_fP6afYshB2loqoLcf7o1XqLg5FgiXTDwQUzGTfmRILv3XZWHiYkymwwTKY31kxzTmBU8UXe0ag4I_cAMiLE6Wji9qhIb0HuSY-QrLZG7g8Ii9BiVFryGY8xdCQ34A1OBgNZL_HS3P0aybfvdz9Tq_x-tgJFFJ6qmVTNhZzMp_yE3muFifrHPQLRflgCIcSKiRwSrr3ZOUtG3HiXk000hvHWJc9UE3fwPHuiwQZ8cZoX2dfL91_WH1dX1x8-rd9drSQvxbSCglWaSkFBVj22raillCVUGitRiniYWgHVJQiktKQYMc4bLJoGCt6U2PCLjC2-0rsQPOru4M0Afu4Y7dJ9uwf3jZq3i8aM2vkBfjhvVTfBbJ3XHkZpQsf_Ja__K3-g6qbjxH8DbonGsQ"
+                    ],
+                    "recordid": [
+                        "cdi_informaworld_taylorfrancis_310_1080_19476330903119218"
+                    ],
+                    "score": [
+                        "0.013649137"
+                    ]
+                }
+            },
+            "delivery": {
+                "link": [],
+                "deliveryCategory": [
+                    "Remote Search Resource"
+                ],
+                "availability": [
+                    "fulltext_linktorsrc"
+                ],
+                "displayLocation": false,
+                "additionalLocations": false,
+                "physicalItemTextCodes": "",
+                "feDisplayOtherLocations": false,
+                "displayedAvailability": "true",
+                "holding": [],
+                "almaOpenurl": "https://na02.alma.exlibrisgroup.com/view/uresolver/01KSU_INST/openurl?ctx_enc=info:ofi/enc:UTF-8&ctx_id=10_1&ctx_tim=2024-10-17 13:41:30&ctx_ver=Z39.88-2004&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&url_ver=Z39.88-2004&rfr_id=info:sid/primo.exlibrisgroup.com-crossref_0YH&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.genre=article&rft.atitle=Chemical+composition%2C+carbohydrate+digestibility%2C+and+antioxidant+capacity+of+cooked+black+bean%2C+chickpea%2C+and+lentil+Mexican+varieties+Composici%C3%B3n+qu%C3%ADmica%2C+digestibilidad+de+carbohidratos%2C+y+capacidad+antioxidante+de+variedades+mexicanas+cocidas+de+frijol+negro%2C+garbanzo%2C+y+lenteja&rft.jtitle=CYTA%3A+journal+of+food&rft.au=Silva-Cristobal%2C+L.&rft.date=2010-05-01&rft.volume=8&rft.issue=1&rft.spage=7&rft.epage=14&rft.pages=7-14&rft.issn=1947-6337&rft.eissn=1947-6345&rft_id=info:doi/10.1080%2F19476330903119218&rft.pub=Taylor+%26+Francis&rft_dat=<crossref_0YH>10_1080_19476330903119218</crossref_0YH>&svc_dat=viewit"
+            },
+            "context": "PC",
+            "adaptor": "Primo Central",
+            "extras": {
+                "citationTrails": {
+                    "citing": [
+                        "FETCH-LOGICAL-c346t-a215f0c60ac5be9967ccc4a5fe56464767da0f4a6e0040ecc4338e288a2384e83"
+                    ],
+                    "citedby": [
+                        "FETCH-LOGICAL-c346t-a215f0c60ac5be9967ccc4a5fe56464767da0f4a6e0040ecc4338e288a2384e83"
+                    ]
+                },
+                "timesCited": {}
+            },
+            "@id": "https://na02.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/PC/cdi_informaworld_taylorfrancis_310_1080_19476330903119218"
+        },
+        {
+            "pnx": {
+                "links": {
+                    "linktohtml": [
+                        "$$Uhttps://www.proquest.com/docview/1919764275?pq-origsite=primo&accountid=11789$$EHTML$$P50$$Gproquest$$H"
+                    ],
+                    "openurlfulltext": [
+                        "$$Topenurlfull_article"
+                    ],
+                    "linktorsrc": [
+                        "$$Uhttps://search.proquest.com/docview/1919764275?pq-origsite=primo&accountid=11789$$EView_record_in_ProQuest$$FView_record_in_$$GProQuest"
+                    ],
+                    "thumbnail": [
+                        "$$Tsyndetics_thumb_exl"
+                    ],
+                    "openurl": [
+                        "$$Topenurl_article"
+                    ]
+                },
+                "search": {
+                    "rsrctype": [
+                        "newsletterarticle"
+                    ],
+                    "creationdate": [
+                        "2017"
+                    ],
+                    "sourceid": [
+                        "BENPR",
+                        "CLPLZ",
+                        "EVNAE",
+                        "PQCXX"
+                    ],
+                    "recordtype": [
+                        "newsletterarticle"
+                    ],
+                    "recordid": [
+                        "eNqNizkOwjAUBd0gsd7hF7SRskHkOmJpEE36yCQvxMhywN9muT0pOADVG2nmTcWc-RbHaSaLfCYOVQ8GKQfyPSiN6QL21AVjIoZ76gZ0wls3ypIbjQpOWc-kLZ1HuoLKIVj_WYpJpwxj9duFWO93VXmM7m54hPFYv7RDB7RcJzKRxTZPi032Z_YFQKo5NA"
+                    ],
+                    "scope": [
+                        "0TT",
+                        "0U~",
+                        "3V.",
+                        "7WY",
+                        "7XB",
+                        "7XH",
+                        "87Y",
+                        "8AO",
+                        "8FK",
+                        "8FL",
+                        "AAFGM",
+                        "ABLUL",
+                        "ABPUF",
+                        "ABSSA",
+                        "ABUWG",
+                        "ABWIB",
+                        "ADWXS",
+                        "ADZZV",
+                        "AFKRA",
+                        "AFOLM",
+                        "AGAJT",
+                        "AIEDA",
+                        "AJNOY",
+                        "ALPET",
+                        "AZQEC",
+                        "BEC",
+                        "BENPR",
+                        "BEZIV",
+                        "CLPLZ",
+                        "DWQXO",
+                        "EUPAP",
+                        "EVNAE",
+                        "EVWYX",
+                        "FBPOE",
+                        "FJOQK",
+                        "FJZMF",
+                        "FKKPI",
+                        "FRNLG",
+                        "GNUQQ",
+                        "K60",
+                        "K6~",
+                        "KB~",
+                        "L.-",
+                        "M0B",
+                        "M2J",
+                        "PQCXX",
+                        "PQEST",
+                        "PQQKQ",
+                        "PQUKI",
+                        "Q9U",
+                        "S0X"
+                    ],
+                    "title": [
+                        "These are the 20 best full-service Mexican restaurants in Orange County",
+                        "TCA Regional News"
+                    ],
+                    "fulltext": [
+                        "true"
+                    ],
+                    "startdate": [
+                        "20170718"
+                    ],
+                    "enddate": [
+                        "20170718"
+                    ],
+                    "creator": [
+                        "Johnson, Brad A"
+                    ],
+                    "subject": [
+                        "Beef",
+                        "Cookbook",
+                        "Cooking",
+                        "Restaurants"
+                    ],
+                    "general": [
+                        "Tribune Content Agency LLC"
+                    ],
+                    "creatorcontrib": [
+                        "Johnson, Brad A"
+                    ]
+                },
+                "display": {
+                    "language": [
+                        "eng"
+                    ],
+                    "title": [
+                        "These are the 20 best full-service Mexican restaurants in Orange County"
+                    ],
+                    "creator": [
+                        "Johnson, Brad A"
+                    ],
+                    "subject": [
+                        "Beef ; Cookbook ; Cooking ; Restaurants"
+                    ],
+                    "source": [
+                        "ProQuest Central"
+                    ],
+                    "type": [
+                        "newsletterarticle"
+                    ],
+                    "rights": [
+                        "(c)2017 The Orange County Register (Santa Ana, Calif.) Visit The Orange County Register (Santa Ana, Calif.) at www.ocregister.com Distributed by Tribune Content Agency, LLC."
+                    ],
+                    "ispartof": [
+                        "TCA Regional News, 2017"
+                    ],
+                    "publisher": [
+                        "Chicago: Tribune Content Agency LLC"
+                    ],
+                    "snippet": [
+                        "... story about Mexican food. The chasm between these two restaurants is obviously vast. Not just the cooking but also the enjoyment of a wood-fired steak at Taco Maria..."
+                    ]
+                },
+                "delivery": {
+                    "delcategory": [
+                        "Remote Search Resource"
+                    ],
+                    "fulltext": [
+                        "fulltext_linktorsrc"
+                    ]
+                },
+                "addata": {
+                    "pub": [
+                        "Tribune Content Agency LLC"
+                    ],
+                    "format": [
+                        "journal"
+                    ],
+                    "au": [
+                        "Johnson, Brad A"
+                    ],
+                    "atitle": [
+                        "These are the 20 best full-service Mexican restaurants in Orange County"
+                    ],
+                    "date": [
+                        "2017-07-18"
+                    ],
+                    "risdate": [
+                        "2017"
+                    ],
+                    "ristype": [
+                        "JOUR"
+                    ],
+                    "cop": [
+                        "Chicago"
+                    ],
+                    "genre": [
+                        "article"
+                    ],
+                    "jtitle": [
+                        "TCA Regional News"
+                    ]
+                },
+                "facets": {
+                    "rsrctype": [
+                        "newsletterarticle"
+                    ],
+                    "language": [
+                        "eng"
+                    ],
+                    "toplevel": [
+                        "online_resources"
+                    ],
+                    "collection": [
+                        "News PRO",
+                        "Global News & ABI/Inform Professional",
+                        "ProQuest Central (Corporate)",
+                        "ABI/INFORM Collection",
+                        "ProQuest Central (purchase pre-March 2016)",
+                        "ProQuest Newsstand",
+                        "ABI/INFORM Collection",
+                        "ProQuest Pharma Collection",
+                        "ProQuest Central (Alumni) (purchase pre-March 2016)",
+                        "ABI/INFORM Collection (Alumni Edition)",
+                        "ProQuest Central (Alumni)",
+                        "ProQuest Central",
+                        "U.S. Northeast Newsstream (Alumni)",
+                        "ProQuest Central Essentials",
+                        "eLibrary",
+                        "ProQuest Central",
+                        "Business Premium Collection",
+                        "ProQuest Global Newsstream",
+                        "ProQuest Central",
+                        "U.S. Midwest Newsstream",
+                        "ProQuest - U.S. Newsstream",
+                        "U.S. North Central Newsstream",
+                        "U.S. Northeast Newsstream",
+                        "U.S. South Central Newsstream",
+                        "U.S. Southeast Newsstream",
+                        "U.S. West Newsstream",
+                        "Business Premium Collection (Alumni)",
+                        "ProQuest Central Student",
+                        "ProQuest Business Collection (Alumni Edition)",
+                        "ProQuest Business Collection",
+                        "ProQuest Newsstand Professional",
+                        "ABI/INFORM Professional Advanced",
+                        "ABI/INFORM Dateline",
+                        "Business Dateline",
+                        "ProQuest One Academic Eastern Edition (DO NOT USE)",
+                        "ProQuest One Academic",
+                        "ProQuest One Academic UKI Edition",
+                        "ProQuest Central Basic",
+                        "SIRS Editorial"
+                    ],
+                    "frbrtype": [
+                        "5"
+                    ],
+                    "creationdate": [
+                        "2017"
+                    ],
+                    "frbrgroupid": [
+                        "cdi_FETCH-proquest_wirefeeds_19197642753"
+                    ],
+                    "creatorcontrib": [
+                        "Johnson, Brad A"
+                    ],
+                    "prefilter": [
+                        "newsletterarticle"
+                    ],
+                    "topic": [
+                        "Beef",
+                        "Cookbook",
+                        "Cooking",
+                        "Restaurants"
+                    ]
+                },
+                "sort": {
+                    "author": [
+                        "Johnson, Brad A"
+                    ],
+                    "creationdate": [
+                        "20170718"
+                    ],
+                    "title": [
+                        "These are the 20 best full-service Mexican restaurants in Orange County"
+                    ]
+                },
+                "control": {
+                    "sourcetype": [
+                        "Aggregation Database"
+                    ],
+                    "sourceformat": [
+                        "XML"
+                    ],
+                    "sourcesystem": [
+                        "Other"
+                    ],
+                    "sourceid": [
+                        "proquest_PQCXX"
+                    ],
+                    "recordtype": [
+                        "newsletterarticle"
+                    ],
+                    "sourcerecordid": [
+                        "1919764275"
+                    ],
+                    "originalsourceid": [
+                        "FETCH-proquest_wirefeeds_19197642753"
+                    ],
+                    "pqid": [
+                        "1919764275"
+                    ],
+                    "addsrcrecordid": [
+                        "eNqNizkOwjAUBd0gsd7hF7SRskHkOmJpEE36yCQvxMhywN9muT0pOADVG2nmTcWc-RbHaSaLfCYOVQ8GKQfyPSiN6QL21AVjIoZ76gZ0wls3ypIbjQpOWc-kLZ1HuoLKIVj_WYpJpwxj9duFWO93VXmM7m54hPFYv7RDB7RcJzKRxTZPi032Z_YFQKo5NA"
+                    ],
+                    "recordid": [
+                        "cdi_proquest_wirefeeds_1919764275"
+                    ],
+                    "score": [
+                        "0.012467449"
+                    ]
+                }
+            },
+            "delivery": {
+                "link": [],
+                "deliveryCategory": [
+                    "Remote Search Resource"
+                ],
+                "availability": [
+                    "fulltext_linktorsrc"
+                ],
+                "displayLocation": false,
+                "additionalLocations": false,
+                "physicalItemTextCodes": "",
+                "feDisplayOtherLocations": false,
+                "displayedAvailability": "true",
+                "holding": [],
+                "almaOpenurl": "https://na02.alma.exlibrisgroup.com/view/uresolver/01KSU_INST/openurl?ctx_enc=info:ofi/enc:UTF-8&ctx_id=10_1&ctx_tim=2024-10-17 13:41:30&ctx_ver=Z39.88-2004&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&url_ver=Z39.88-2004&rfr_id=info:sid/primo.exlibrisgroup.com-proquest_PQCXX&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.genre=article&rft.atitle=These+are+the+20+best+full-service+Mexican+restaurants+in+Orange+County&rft.jtitle=TCA+Regional+News&rft.au=Johnson%2C+Brad+A&rft.date=2017-07-18&rft.pub=Tribune+Content+Agency+LLC&rft.place=Chicago&rft_dat=<proquest_PQCXX>1919764275</proquest_PQCXX>&svc_dat=viewit&rft_pqid=1919764275"
+            },
+            "context": "PC",
+            "adaptor": "Primo Central",
+            "extras": {
+                "citationTrails": {
+                    "citing": [],
+                    "citedby": []
+                },
+                "timesCited": {}
+            },
+            "@id": "https://na02.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/PC/cdi_proquest_wirefeeds_1919764275"
+        },
+        {
+            "pnx": {
+                "links": {
+                    "linktohtml": [
+                        "$$Uhttps://www.proquest.com/docview/1504058267?pq-origsite=primo&accountid=11789$$EHTML$$P50$$Gproquest$$H"
+                    ],
+                    "openurlfulltext": [
+                        "$$Topenurlfull_article"
+                    ],
+                    "linktorsrc": [
+                        "$$Uhttps://search.proquest.com/docview/1504058267?pq-origsite=primo&accountid=11789$$EView_record_in_ProQuest$$FView_record_in_$$GProQuest"
+                    ],
+                    "thumbnail": [
+                        "$$Tsyndetics_thumb_exl"
+                    ],
+                    "openurl": [
+                        "$$Topenurl_article"
+                    ]
+                },
+                "search": {
+                    "description": [
+                        "\"People didn't expect to get a half a pineapple.\" Besides serving both lunch and dinner, the restaurant offers soups, including chicken tortilla and Mexican chili; salads, including fajita taco salad and 3 Amigos salad; and has vegetarian entrees and combos."
+                    ],
+                    "rsrctype": [
+                        "newsletterarticle"
+                    ],
+                    "creationdate": [
+                        "2014"
+                    ],
+                    "sourceid": [
+                        "BENPR",
+                        "CLPLZ",
+                        "EVNAE",
+                        "PQCXX"
+                    ],
+                    "recordtype": [
+                        "newsletterarticle"
+                    ],
+                    "recordid": [
+                        "eNrjYOAtLs4yAAJTAyMLExNOBnO_1HIF39SKzOTEPIWi1OKSxNKixLwShfyC1Lxihfw8Bc-8FD0FEzOFzDwF15yc1JKS4rJMIM3DwJqWmFOcyguluRlU3FxDnD10C4ryC0uB5sSXZxalpqWmphTHG5oamBiYWhiZmRsTqQwAzAAzjw"
+                    ],
+                    "scope": [
+                        "0TT",
+                        "0U~",
+                        "3V.",
+                        "7WY",
+                        "7XB",
+                        "7XH",
+                        "87Y",
+                        "8AO",
+                        "8FK",
+                        "8FL",
+                        "AAFGM",
+                        "ABLUL",
+                        "ABPUF",
+                        "ABSSA",
+                        "ABUWG",
+                        "ABWIB",
+                        "ADWXS",
+                        "ADZZV",
+                        "AFKRA",
+                        "AFOLM",
+                        "AGAJT",
+                        "AIEDA",
+                        "AJNOY",
+                        "ALPET",
+                        "AQTIP",
+                        "AZQEC",
+                        "BEC",
+                        "BENPR",
+                        "BEZIV",
+                        "BOUDT",
+                        "CBHQV",
+                        "CCPQU",
+                        "CLPLZ",
+                        "DWQXO",
+                        "EUPAP",
+                        "EVNAE",
+                        "EVWYX",
+                        "FBPOE",
+                        "FJOQK",
+                        "FJZMF",
+                        "FKKPI",
+                        "FRNLG",
+                        "GNUQQ",
+                        "K60",
+                        "K6~",
+                        "KB~",
+                        "L.-",
+                        "M0B",
+                        "M2J",
+                        "PQBIZ",
+                        "PQBZA",
+                        "PQCXX",
+                        "PQEST",
+                        "PQQKQ",
+                        "PQUKI",
+                        "Q9U",
+                        "S0X"
+                    ],
+                    "title": [
+                        "New Mexican restaurant opens on Ind. 46 in Ellettsville",
+                        "McClatchy - Tribune Business News"
+                    ],
+                    "fulltext": [
+                        "true"
+                    ],
+                    "startdate": [
+                        "20140305"
+                    ],
+                    "enddate": [
+                        "20140305"
+                    ],
+                    "creator": [
+                        "Kugler, Carol"
+                    ],
+                    "subject": [
+                        "Cooking",
+                        "Food service",
+                        "Restaurants",
+                        "Salads"
+                    ],
+                    "general": [
+                        "Tribune Content Agency LLC"
+                    ],
+                    "creatorcontrib": [
+                        "Kugler, Carol"
+                    ]
+                },
+                "display": {
+                    "description": [
+                        "\"People didn't expect to get a half a pineapple.\" Besides serving both lunch and dinner, the restaurant offers soups, including chicken tortilla and Mexican chili; salads, including fajita taco salad and 3 Amigos salad; and has vegetarian entrees and combos."
+                    ],
+                    "language": [
+                        "eng"
+                    ],
+                    "title": [
+                        "New Mexican restaurant opens on Ind. 46 in Ellettsville"
+                    ],
+                    "creator": [
+                        "Kugler, Carol"
+                    ],
+                    "subject": [
+                        "Cooking ; Food service ; Restaurants ; Salads"
+                    ],
+                    "source": [
+                        "ProQuest Central"
+                    ],
+                    "type": [
+                        "newsletterarticle"
+                    ],
+                    "rights": [
+                        "(c)2014 the Herald-Times (Bloomington, Ind.) Visit the Herald-Times (Bloomington, Ind.) at www.heraldtimesonline.com Distributed by MCT Information Services"
+                    ],
+                    "ispartof": [
+                        "McClatchy - Tribune Business News, 2014"
+                    ],
+                    "publisher": [
+                        "Washington: Tribune Content Agency LLC"
+                    ],
+                    "snippet": [
+                        "\"People didn't expect to get a half a pineapple.\" Besides serving both lunch and dinner, the restaurant offers soups, including chicken tortilla and Mexican chili..."
+                    ]
+                },
+                "delivery": {
+                    "delcategory": [
+                        "Remote Search Resource"
+                    ],
+                    "fulltext": [
+                        "fulltext_linktorsrc"
+                    ]
+                },
+                "addata": {
+                    "pub": [
+                        "Tribune Content Agency LLC"
+                    ],
+                    "abstract": [
+                        "\"People didn't expect to get a half a pineapple.\" Besides serving both lunch and dinner, the restaurant offers soups, including chicken tortilla and Mexican chili; salads, including fajita taco salad and 3 Amigos salad; and has vegetarian entrees and combos."
+                    ],
+                    "format": [
+                        "journal"
+                    ],
+                    "au": [
+                        "Kugler, Carol"
+                    ],
+                    "atitle": [
+                        "New Mexican restaurant opens on Ind. 46 in Ellettsville"
+                    ],
+                    "date": [
+                        "2014-03-05"
+                    ],
+                    "risdate": [
+                        "2014"
+                    ],
+                    "ristype": [
+                        "JOUR"
+                    ],
+                    "cop": [
+                        "Washington"
+                    ],
+                    "genre": [
+                        "article"
+                    ],
+                    "jtitle": [
+                        "McClatchy - Tribune Business News"
+                    ]
+                },
+                "facets": {
+                    "rsrctype": [
+                        "newsletterarticle"
+                    ],
+                    "language": [
+                        "eng"
+                    ],
+                    "toplevel": [
+                        "online_resources"
+                    ],
+                    "collection": [
+                        "News PRO",
+                        "Global News & ABI/Inform Professional",
+                        "ProQuest Central (Corporate)",
+                        "ABI/INFORM Collection",
+                        "ProQuest Central (purchase pre-March 2016)",
+                        "ProQuest Newsstand",
+                        "ABI/INFORM Collection",
+                        "ProQuest Pharma Collection",
+                        "ProQuest Central (Alumni) (purchase pre-March 2016)",
+                        "ABI/INFORM Collection (Alumni Edition)",
+                        "ProQuest Central (Alumni)",
+                        "ProQuest Central",
+                        "U.S. Northeast Newsstream (Alumni)",
+                        "ProQuest Central Essentials",
+                        "eLibrary",
+                        "ProQuest Central",
+                        "Business Premium Collection",
+                        "ProQuest One Community College",
+                        "ProQuest Global Newsstream",
+                        "ProQuest Central",
+                        "U.S. Midwest Newsstream",
+                        "ProQuest - U.S. Newsstream",
+                        "U.S. North Central Newsstream",
+                        "U.S. Northeast Newsstream",
+                        "U.S. South Central Newsstream",
+                        "U.S. Southeast Newsstream",
+                        "U.S. West Newsstream",
+                        "Business Premium Collection (Alumni)",
+                        "ProQuest Central Student",
+                        "ProQuest Business Collection (Alumni Edition)",
+                        "ProQuest Business Collection",
+                        "ProQuest Newsstand Professional",
+                        "ABI/INFORM Professional Advanced",
+                        "ABI/INFORM Dateline",
+                        "Business Dateline",
+                        "ProQuest One Business",
+                        "ProQuest One Business (Alumni)",
+                        "ProQuest One Academic Eastern Edition (DO NOT USE)",
+                        "ProQuest One Academic",
+                        "ProQuest One Academic UKI Edition",
+                        "ProQuest Central Basic",
+                        "SIRS Editorial"
+                    ],
+                    "frbrtype": [
+                        "5"
+                    ],
+                    "creationdate": [
+                        "2014"
+                    ],
+                    "frbrgroupid": [
+                        "cdi_FETCH-proquest_wirefeeds_15040582673"
+                    ],
+                    "creatorcontrib": [
+                        "Kugler, Carol"
+                    ],
+                    "prefilter": [
+                        "newsletterarticle"
+                    ],
+                    "topic": [
+                        "Cooking",
+                        "Food service",
+                        "Restaurants",
+                        "Salads"
+                    ]
+                },
+                "sort": {
+                    "author": [
+                        "Kugler, Carol"
+                    ],
+                    "creationdate": [
+                        "20140305"
+                    ],
+                    "title": [
+                        "New Mexican restaurant opens on Ind. 46 in Ellettsville"
+                    ]
+                },
+                "control": {
+                    "sourcetype": [
+                        "Aggregation Database"
+                    ],
+                    "sourceformat": [
+                        "XML"
+                    ],
+                    "sourcesystem": [
+                        "Other"
+                    ],
+                    "sourceid": [
+                        "proquest_PQCXX"
+                    ],
+                    "recordtype": [
+                        "newsletterarticle"
+                    ],
+                    "sourcerecordid": [
+                        "3236145261"
+                    ],
+                    "originalsourceid": [
+                        "FETCH-proquest_wirefeeds_15040582673"
+                    ],
+                    "pqid": [
+                        "1504058267"
+                    ],
+                    "addsrcrecordid": [
+                        "eNrjYOAtLs4yAAJTAyMLExNOBnO_1HIF39SKzOTEPIWi1OKSxNKixLwShfyC1Lxihfw8Bc-8FD0FEzOFzDwF15yc1JKS4rJMIM3DwJqWmFOcyguluRlU3FxDnD10C4ryC0uB5sSXZxalpqWmphTHG5oamBiYWhiZmRsTqQwAzAAzjw"
+                    ],
+                    "recordid": [
+                        "cdi_proquest_wirefeeds_1504058267"
+                    ],
+                    "score": [
+                        "0.012004848"
+                    ]
+                }
+            },
+            "delivery": {
+                "link": [],
+                "deliveryCategory": [
+                    "Remote Search Resource"
+                ],
+                "availability": [
+                    "fulltext_linktorsrc"
+                ],
+                "displayLocation": false,
+                "additionalLocations": false,
+                "physicalItemTextCodes": "",
+                "feDisplayOtherLocations": false,
+                "displayedAvailability": "true",
+                "holding": [],
+                "almaOpenurl": "https://na02.alma.exlibrisgroup.com/view/uresolver/01KSU_INST/openurl?ctx_enc=info:ofi/enc:UTF-8&ctx_id=10_1&ctx_tim=2024-10-17 13:41:30&ctx_ver=Z39.88-2004&url_ctx_fmt=info:ofi/fmt:kev:mtx:ctx&url_ver=Z39.88-2004&rfr_id=info:sid/primo.exlibrisgroup.com-proquest_PQCXX&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&rft.genre=article&rft.atitle=New+Mexican+restaurant+opens+on+Ind.+46+in+Ellettsville&rft.jtitle=McClatchy+-+Tribune+Business+News&rft.au=Kugler%2C+Carol&rft.date=2014-03-05&rft.pub=Tribune+Content+Agency+LLC&rft.place=Washington&rft_dat=<proquest_PQCXX>3236145261</proquest_PQCXX>&svc_dat=viewit&rft_pqid=1504058267"
+            },
+            "context": "PC",
+            "adaptor": "Primo Central",
+            "extras": {
+                "citationTrails": {
+                    "citing": [],
+                    "citedby": []
+                },
+                "timesCited": {}
+            },
+            "@id": "https://na02.alma.exlibrisgroup.com/primaws/rest/pub/pnxs/PC/cdi_proquest_wirefeeds_1504058267"
+        }
+    ],
+    "timelog": {
+        "PC_SEARCH_CALL_TIME": "489",
+        "PC_BUILD_JSON_AND_HIGLIGHTS": "125",
+        "PC_SEARCH_TIME_TOTAL": "614",
+        "BUILD_RESULTS_RETRIVE_FROM_DB": "15",
+        "CALL_SOLR_GET_IDS_LIST": "808",
+        "PRIMA_LOCAL_SEARCH_SET_AVALIABILITY": "329",
+        "RETRIVE_COLLECTION_DISCOVERY_INFO": "1",
+        "RETRIVE_FROM_DB_COURSE_INFO": "3",
+        "RETRIVE_FROM_DB_RECORDS": "7",
+        "RETRIVE_FROM_DB_RELATIONS": "2",
+        "SET_AVAILABILTY_GET_LIBRARY_DETAILS": "321",
+        "SET_AVAILABILTY_HOLDING_DEDUPS": "8",
+        "PRIMA_LOCAL_INFO_FACETS_BUILD_DOCS_HIGHLIGHTS": "18",
+        "PRIMA_LOCAL_SEARCH_TOTAL": "1190",
+        "BUILD_BLEND_AND_CACHE_RESULTS": 0,
+        "BUILD_COMBINED_RESULTS_MAP": 1254,
+        "COMBINED_SEARCH_TIME": 1555,
+        "PROCESS_COMBINED_RESULTS": 0,
+        "FEATURED_SEARCH_TIME": 1
+    },
+    "facets": [
+        {
+            "name": "creationdate",
+            "values": [
+                {
+                    "value": "1801",
+                    "count": "1"
+                },
+                {
+                    "value": "1900",
+                    "count": "1"
+                },
+                {
+                    "value": "1910",
+                    "count": "2"
+                },
+                {
+                    "value": "1930",
+                    "count": "2"
+                },
+                {
+                    "value": "1940",
+                    "count": "2"
+                },
+                {
+                    "value": "1950",
+                    "count": "3"
+                },
+                {
+                    "value": "1958",
+                    "count": "1"
+                },
+                {
+                    "value": "1960",
+                    "count": "1"
+                },
+                {
+                    "value": "1962",
+                    "count": "1"
+                },
+                {
+                    "value": "1965",
+                    "count": "3"
+                },
+                {
+                    "value": "1976",
+                    "count": "4"
+                },
+                {
+                    "value": "1979",
+                    "count": "1"
+                },
+                {
+                    "value": "1983",
+                    "count": "1"
+                },
+                {
+                    "value": "1984",
+                    "count": "3"
+                },
+                {
+                    "value": "1985",
+                    "count": "3"
+                },
+                {
+                    "value": "1986",
+                    "count": "3"
+                },
+                {
+                    "value": "1987",
+                    "count": "9"
+                },
+                {
+                    "value": "1988",
+                    "count": "6"
+                },
+                {
+                    "value": "1989",
+                    "count": "4"
+                },
+                {
+                    "value": "1990",
+                    "count": "3"
+                },
+                {
+                    "value": "1991",
+                    "count": "6"
+                },
+                {
+                    "value": "1992",
+                    "count": "12"
+                },
+                {
+                    "value": "1993",
+                    "count": "14"
+                },
+                {
+                    "value": "1994",
+                    "count": "2"
+                },
+                {
+                    "value": "1995",
+                    "count": "8"
+                },
+                {
+                    "value": "1996",
+                    "count": "6"
+                },
+                {
+                    "value": "1997",
+                    "count": "15"
+                },
+                {
+                    "value": "1998",
+                    "count": "4"
+                },
+                {
+                    "value": "1999",
+                    "count": "5"
+                },
+                {
+                    "value": "2000",
+                    "count": "18"
+                },
+                {
+                    "value": "2001",
+                    "count": "22"
+                },
+                {
+                    "value": "2002",
+                    "count": "17"
+                },
+                {
+                    "value": "2003",
+                    "count": "25"
+                },
+                {
+                    "value": "2004",
+                    "count": "20"
+                },
+                {
+                    "value": "2005",
+                    "count": "15"
+                },
+                {
+                    "value": "2006",
+                    "count": "21"
+                },
+                {
+                    "value": "2007",
+                    "count": "34"
+                },
+                {
+                    "value": "2008",
+                    "count": "88"
+                },
+                {
+                    "value": "2009",
+                    "count": "44"
+                },
+                {
+                    "value": "2010",
+                    "count": "51"
+                },
+                {
+                    "value": "2011",
+                    "count": "20"
+                },
+                {
+                    "value": "2012",
+                    "count": "49"
+                },
+                {
+                    "value": "2013",
+                    "count": "30"
+                },
+                {
+                    "value": "2014",
+                    "count": "49"
+                },
+                {
+                    "value": "2015",
+                    "count": "45"
+                },
+                {
+                    "value": "2016",
+                    "count": "44"
+                },
+                {
+                    "value": "2017",
+                    "count": "27"
+                },
+                {
+                    "value": "2018",
+                    "count": "51"
+                },
+                {
+                    "value": "2019",
+                    "count": "55"
+                },
+                {
+                    "value": "2020",
+                    "count": "163"
+                },
+                {
+                    "value": "2021",
+                    "count": "151"
+                },
+                {
+                    "value": "2022",
+                    "count": "92"
+                },
+                {
+                    "value": "2023",
+                    "count": "85"
+                },
+                {
+                    "value": "2024",
+                    "count": "63"
+                }
+            ]
+        },
+        {
+            "name": "creator",
+            "values": [
+                {
+                    "value": "Compañía Numar",
+                    "count": "1"
+                }
+            ]
+        },
+        {
+            "name": "tlevel",
+            "values": [
+                {
+                    "value": "open_access",
+                    "count": "127"
+                },
+                {
+                    "value": "peer_reviewed",
+                    "count": "224"
+                },
+                {
+                    "value": "online_resources",
+                    "count": "1399"
+                },
+                {
+                    "value": "available_p",
+                    "count": "1"
+                }
+            ]
+        },
+        {
+            "name": "newrecords",
+            "values": [
+                {
+                    "value": "30 days back",
+                    "count": "5"
+                },
+                {
+                    "value": "90 days back",
+                    "count": "15"
+                }
+            ]
+        },
+        {
+            "name": "rtype",
+            "values": [
+                {
+                    "value": "articles",
+                    "count": "352"
+                },
+                {
+                    "value": "newspaper_articles",
+                    "count": "335"
+                },
+                {
+                    "value": "magazinearticle",
+                    "count": "318"
+                },
+                {
+                    "value": "newsletterarticle",
+                    "count": "240"
+                },
+                {
+                    "value": "dissertations",
+                    "count": "49"
+                },
+                {
+                    "value": "reports",
+                    "count": "44"
+                },
+                {
+                    "value": "review_article",
+                    "count": "26"
+                },
+                {
+                    "value": "book_chapters",
+                    "count": "23"
+                },
+                {
+                    "value": "reviews",
+                    "count": "15"
+                },
+                {
+                    "value": "web_resources",
+                    "count": "9"
+                },
+                {
+                    "value": "reference_entrys",
+                    "count": "6"
+                },
+                {
+                    "value": "government_documents",
+                    "count": "3"
+                },
+                {
+                    "value": "text_resources",
+                    "count": "3"
+                },
+                {
+                    "value": "books",
+                    "count": "2"
+                },
+                {
+                    "value": "conference_proceedings",
+                    "count": "1"
+                }
+            ]
+        },
+        {
+            "name": "library",
+            "values": [
+                {
+                    "value": "2401–12230460490002401",
+                    "count": "1"
+                }
+            ]
+        },
+        {
+            "name": "location_code",
+            "values": [
+                {
+                    "value": "2401–12230460490002401–spec",
+                    "count": "1"
+                }
+            ]
+        },
+        {
+            "name": "domain",
+            "values": [
+                {
+                    "value": "ProQuest Central",
+                    "count": "1037"
+                },
+                {
+                    "value": "Gale General OneFile",
+                    "count": "478"
+                },
+                {
+                    "value": "Gale Academic OneFile Select",
+                    "count": "183"
+                },
+                {
+                    "value": "ProQuest Global Newsstream",
+                    "count": "323"
+                },
+                {
+                    "value": "ProQuest - U.S. Newsstream",
+                    "count": "300"
+                },
+                {
+                    "value": "Gale Business: Insights",
+                    "count": "299"
+                },
+                {
+                    "value": "Gale OneFile: Business",
+                    "count": "198"
+                },
+                {
+                    "value": "Gale OneFile: News (Gale Reference Complete)",
+                    "count": "192"
+                },
+                {
+                    "value": "Publisher",
+                    "count": "156"
+                },
+                {
+                    "value": "ProQuest Historical Newspapers",
+                    "count": "150"
+                },
+                {
+                    "value": "EBSCOhost MasterFILE Premier",
+                    "count": "144"
+                },
+                {
+                    "value": "Gale In Context: Environmental Studies",
+                    "count": "109"
+                },
+                {
+                    "value": "DOAJ Directory of Open Access Journals",
+                    "count": "109"
+                },
+                {
+                    "value": "ROAD: Directory of Open Access Scholarly Resources",
+                    "count": "93"
+                },
+                {
+                    "value": "EBSCOhost Academic Search Premier",
+                    "count": "92"
+                },
+                {
+                    "value": "Business Source Premier",
+                    "count": "88"
+                },
+                {
+                    "value": "EBSCOhost MAS Ultra - Ebooks",
+                    "count": "78"
+                },
+                {
+                    "value": "Gale OneFile: Educator's Reference Complete",
+                    "count": "78"
+                },
+                {
+                    "value": "IngentaConnect Journals",
+                    "count": "77"
+                }
+            ]
+        },
+        {
+            "name": "topic",
+            "values": [
+                {
+                    "value": "Restaurants",
+                    "count": "391"
+                },
+                {
+                    "value": "Cooks",
+                    "count": "144"
+                },
+                {
+                    "value": "Cookbook",
+                    "count": "114"
+                },
+                {
+                    "value": "Cooking",
+                    "count": "105"
+                },
+                {
+                    "value": "Food",
+                    "count": "103"
+                },
+                {
+                    "value": "Covid-19 Pandemic, 2020-",
+                    "count": "65"
+                },
+                {
+                    "value": "Summer",
+                    "count": "59"
+                },
+                {
+                    "value": "Food Handling",
+                    "count": "56"
+                },
+                {
+                    "value": "Food Industry And Trade",
+                    "count": "55"
+                },
+                {
+                    "value": "Coronaviruses",
+                    "count": "54"
+                },
+                {
+                    "value": "Medicine",
+                    "count": "50"
+                },
+                {
+                    "value": "Seafood",
+                    "count": "49"
+                },
+                {
+                    "value": "Beans",
+                    "count": "44"
+                },
+                {
+                    "value": "Antioxidants",
+                    "count": "38"
+                },
+                {
+                    "value": "Financial Services Industry",
+                    "count": "37"
+                },
+                {
+                    "value": "Employees",
+                    "count": "35"
+                },
+                {
+                    "value": "Tequila",
+                    "count": "35"
+                },
+                {
+                    "value": "Smartphones",
+                    "count": "34"
+                },
+                {
+                    "value": "Olive Oil",
+                    "count": "33"
+                },
+                {
+                    "value": "Fruit",
+                    "count": "32"
+                },
+                {
+                    "value": "Cooking Mexican",
+                    "count": "1"
+                },
+                {
+                    "value": "Cooking Costa Rican",
+                    "count": "1"
+                }
+            ]
+        },
+        {
+            "name": "jtitle",
+            "values": [
+                {
+                    "value": "Toronto Life",
+                    "count": "99"
+                },
+                {
+                    "value": "The New York Times",
+                    "count": "63"
+                },
+                {
+                    "value": "Industry Snapshots",
+                    "count": "51"
+                },
+                {
+                    "value": "New York",
+                    "count": "49"
+                },
+                {
+                    "value": "Chicago Tribune",
+                    "count": "33"
+                },
+                {
+                    "value": "Library Journal",
+                    "count": "31"
+                },
+                {
+                    "value": "The Washington Post",
+                    "count": "29"
+                },
+                {
+                    "value": "The Los Angeles Times",
+                    "count": "22"
+                },
+                {
+                    "value": "New York Times",
+                    "count": "19"
+                },
+                {
+                    "value": "Los Angeles Magazine",
+                    "count": "15"
+                }
+            ]
+        },
+        {
+            "name": "attribute",
+            "values": [
+                {
+                    "value": "review_article",
+                    "count": "26"
+                }
+            ]
+        },
+        {
+            "name": "lang",
+            "values": [
+                {
+                    "value": "eng",
+                    "count": "1382"
+                },
+                {
+                    "value": "spa",
+                    "count": "21"
+                },
+                {
+                    "value": "por",
+                    "count": "3"
+                },
+                {
+                    "value": "fre",
+                    "count": "2"
+                }
+            ]
+        },
+        {
+            "name": "lds04",
+            "values": [
+                {
+                    "value": "Cookbooks",
+                    "count": "1"
+                }
+            ]
+        }
+    ]
+}
