@@ -6,28 +6,41 @@ services:
     image: ksul-openwebui
     container_name: open-webui
     volumes:
-      - ./backend/data:/app/backend/data
-      - ./backend:/app/backend
-      - ./src:/app/src
+      - ${OPEN_WEBUI_DATA_DIR}:/app/backend/data
     ports:
       - ${OPEN_WEBUI_PORT-3000}:8080
     env_file:
-      - .env.example
+      - .env
     extra_hosts:
       - host.docker.internal:host-gateway
     restart: unless-stopped
     depends_on:
       - postgres
-
+# User Database
   postgres:
     image: postgres:latest
     container_name: postgres
     restart: always
     env_file:
-      - .env.example
+      - .env
     volumes:
-      - ./backend/postgres-data:/var/lib/postgresql/data 
+      - ${POSTGRES_DATA_DIR}:/var/lib/postgresql/data
     extra_hosts:
       - host.docker.internal:host-gateway
     ports:
       - 5432:5432
+# Vector database
+  chromadb:
+    image: chromadb/chroma
+    volumes:
+      # Be aware that indexed data are located in "/chroma/chroma/"
+      # Default configuration for persist_directory in chromadb/config.py
+      # Read more about deployments: https://docs.trychroma.com/deployment
+      - ${CHROMA_DATA_DIR}:/chroma/chroma
+    restart: unless-stopped # possible values are: "no", always", "on-failure", "unless-stopped"
+    env_file:
+      - .env
+    ports:
+      - "8000:8000"
+    extra_hosts:
+      - host.docker.internal:host-gateway
