@@ -87,6 +87,7 @@ from open_webui.config import (
     TOOLS_FUNCTION_CALLING_PROMPT_TEMPLATE,
     WEBHOOK_URL,
     WEBUI_AUTH,
+    WEBUI_DEMO,
     WEBUI_NAME,
     AppConfig,
     reset_config,
@@ -2230,6 +2231,7 @@ async def get_app_config(request: Request):
         },
         "features": {
             "auth": WEBUI_AUTH,
+            "demo_mode": WEBUI_DEMO,
             "auth_trusted_header": bool(webui_app.state.AUTH_TRUSTED_EMAIL_HEADER),
             "enable_signup": webui_app.state.config.ENABLE_SIGNUP,
             "enable_login_form": webui_app.state.config.ENABLE_LOGIN_FORM,

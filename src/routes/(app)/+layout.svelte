@@ -194,10 +194,11 @@
 				showChangelog.set($settings?.version !== $config.version);
 			}
 
-			// if ($page.url.searchParams.get('temporary-chat') === 'true') {
-			// 	temporaryChatEnabled.set(true);
-			// }
-			temporaryChatEnabled.set(true);
+			if ($page.url.searchParams.get('temporary-chat') === 'true') {
+				temporaryChatEnabled.set(true);
+			} else if ($config?.features.demo_mode) {
+				temporaryChatEnabled.set(true);
+			}
 
 			// Check for version updates
 			if ($user.role === 'admin') {
