@@ -17,6 +17,7 @@ from open_webui.env import (
     ENV,
     FRONTEND_BUILD_DIR,
     WEBUI_AUTH,
+    WEBUI_DEMO,
     WEBUI_FAVICON_URL,
     WEBUI_NAME,
     log,
@@ -735,9 +736,13 @@ USER_PERMISSIONS_CHAT_EDITING = (
     os.environ.get("USER_PERMISSIONS_CHAT_EDITING", "True").lower() == "true"
 )
 
-USER_PERMISSIONS_CHAT_TEMPORARY = (
-    os.environ.get("USER_PERMISSIONS_CHAT_TEMPORARY", "True").lower() == "true"
-)
+if WEBUI_DEMO:
+    # Do not allow toggling of temporary chats in demo mode
+    USER_PERMISSIONS_CHAT_TEMPORARY = False
+else:
+    USER_PERMISSIONS_CHAT_TEMPORARY = (
+        os.environ.get("USER_PERMISSIONS_CHAT_TEMPORARY", "True").lower() == "true"
+    )
 
 USER_PERMISSIONS = PersistentConfig(
     "USER_PERMISSIONS",
