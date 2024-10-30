@@ -171,8 +171,8 @@ async def signin(request: Request, response: Response, form_data: SigninForm):
         guest_email = "guest@localhost"
         guest_password = "ksul-guest"
 
-        if Users.get_user_by_email(admin_email.lower()):
-            user = Auths.authenticate_user(admin_email.lower(), admin_password)
+        if Users.get_user_by_email(guest_email.lower()):
+            user = Auths.authenticate_user(guest_email.lower(), guest_password)
         else:
             if Users.get_num_users() != 0:
                 raise HTTPException(400, detail=ERROR_MESSAGES.EXISTING_USERS)
