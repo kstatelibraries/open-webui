@@ -166,30 +166,40 @@ async def signin(request: Request, response: Response, form_data: SigninForm):
         user = Auths.authenticate_user_by_trusted_header(trusted_email)
     elif WEBUI_AUTH == False:
         admin_email = "admin@localhost"
-        admin_password = "ksul-admin"
+        admin_password = "open-webui-admin"
 
         guest_email = "guest@localhost"
-        guest_password = "ksul-guest"
+        guest_password = "open-webui-guest"
 
         if Users.get_user_by_email(guest_email.lower()):
             user = Auths.authenticate_user(guest_email.lower(), guest_password)
         else:
             if Users.get_num_users() != 0:
-                raise HTTPException(400, detail=ERROR_MESSAGES.EXISTING_USERS)
+                raise ValueError(ERROR_MESSAGES.EXISTING_USERS)
+            
+            try:
+                await signup(
+                    request,
+                    response,
+                    SignupForm(email=admin_email, password=admin_password, name="User"),
+                )
+                print("Admin signup completed")
+            except Exception as e:
+                print(f"Error during admin signup: {e}")
 
-            await signup(
-                request,
-                response,
-                SignupForm(email=admin_email, password=admin_password, name="User"),
-            )
-            # Add second user account (DEFAULT_USER_ROLE should be set to "user")
-            await signup(
-                request,
-                response,
-                SignupForm(email=guest_email, password=guest_password, name="Guest")
-            )
-            # Set user to the guest_user account instead of admin
+            try:
+                await signup(
+                    request,
+                    response,
+                    SignupForm(email=guest_email, password=guest_password, name="Guest")
+                )
+                print("Guest signup completed")
+            except Exception as e:
+                print(f"Error during guest signup: {e}")
+
+            # Authenticate guest user after both signups
             user = Auths.authenticate_user(guest_email.lower(), guest_password)
+
     else:
         user = Auths.authenticate_user(form_data.email.lower(), form_data.password)
 
@@ -251,7 +261,7 @@ async def signup(request: Request, response: Response, form_data: SignupForm):
                 status.HTTP_403_FORBIDDEN, detail=ERROR_MESSAGES.ACCESS_PROHIBITED
             )
     else:
-        if Users.get_num_users() != 0:
+        if Users.get_num_users() != 0 and not WEBUI_DEMO:
             raise HTTPException(
                 status.HTTP_403_FORBIDDEN, detail=ERROR_MESSAGES.ACCESS_PROHIBITED
             )
