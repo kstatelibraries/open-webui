@@ -320,6 +320,11 @@ WEBUI_AUTH_TRUSTED_EMAIL_HEADER = os.environ.get(
 )
 WEBUI_AUTH_TRUSTED_NAME_HEADER = os.environ.get("WEBUI_AUTH_TRUSTED_NAME_HEADER", None)
 
+####################################
+# WEBUI_DEMO
+####################################
+
+WEBUI_DEMO = os.environ.get("WEBUI_DEMO", "False").lower() == "true"
 
 ####################################
 # WEBUI_SECRET_KEY

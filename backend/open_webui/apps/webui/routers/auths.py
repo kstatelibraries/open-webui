@@ -17,6 +17,7 @@ from open_webui.apps.webui.models.auths import (
 )
 from open_webui.apps.webui.models.users import Users
 from open_webui.config import WEBUI_AUTH
+from open_webui.config import WEBUI_DEMO
 from open_webui.constants import ERROR_MESSAGES, WEBHOOK_MESSAGES
 from open_webui.env import (
     WEBUI_AUTH_TRUSTED_EMAIL_HEADER,
@@ -165,7 +166,10 @@ async def signin(request: Request, response: Response, form_data: SigninForm):
         user = Auths.authenticate_user_by_trusted_header(trusted_email)
     elif WEBUI_AUTH == False:
         admin_email = "admin@localhost"
-        admin_password = "admin"
+        admin_password = "ksul-admin"
+
+        guest_email = "guest@localhost"
+        guest_password = "ksul-guest"
 
         if Users.get_user_by_email(admin_email.lower()):
             user = Auths.authenticate_user(admin_email.lower(), admin_password)
@@ -178,8 +182,14 @@ async def signin(request: Request, response: Response, form_data: SigninForm):
                 response,
                 SignupForm(email=admin_email, password=admin_password, name="User"),
             )
-
-            user = Auths.authenticate_user(admin_email.lower(), admin_password)
+            # Add second user account (DEFAULT_USER_ROLE should be set to "user")
+            await signup(
+                request,
+                response,
+                SignupForm(email=guest_email, password=guest_password, name="Guest")
+            )
+            # Set user to the guest_user account instead of admin
+            user = Auths.authenticate_user(guest_email.lower(), guest_password)
     else:
         user = Auths.authenticate_user(form_data.email.lower(), form_data.password)
 
