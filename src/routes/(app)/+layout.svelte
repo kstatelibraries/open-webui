@@ -196,6 +196,8 @@
 
 			if ($page.url.searchParams.get('temporary-chat') === 'true') {
 				temporaryChatEnabled.set(true);
+			} else if ($config?.features.demo_mode) {
+				temporaryChatEnabled.set(true);
 			}
 
 			// Check for version updates
