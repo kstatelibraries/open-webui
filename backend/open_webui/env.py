@@ -311,20 +311,23 @@ RESET_CONFIG_ON_START = (
 REDIS_URL = os.environ.get("REDIS_URL", "redis://localhost:6379/0")
 
 ####################################
-# WEBUI_AUTH (Required for security)
-####################################
-
-WEBUI_AUTH = os.environ.get("WEBUI_AUTH", "True").lower() == "true"
-WEBUI_AUTH_TRUSTED_EMAIL_HEADER = os.environ.get(
-    "WEBUI_AUTH_TRUSTED_EMAIL_HEADER", None
-)
-WEBUI_AUTH_TRUSTED_NAME_HEADER = os.environ.get("WEBUI_AUTH_TRUSTED_NAME_HEADER", None)
-
-####################################
 # WEBUI_DEMO
 ####################################
 
 WEBUI_DEMO = os.environ.get("WEBUI_DEMO", "False").lower() == "true"
+
+####################################
+# WEBUI_AUTH (Required for security)
+####################################
+if WEBUI_DEMO:
+    WEBUI_AUTH = False
+else:
+    WEBUI_AUTH = os.environ.get("WEBUI_AUTH", "True").lower() == "true"
+
+WEBUI_AUTH_TRUSTED_EMAIL_HEADER = os.environ.get(
+    "WEBUI_AUTH_TRUSTED_EMAIL_HEADER", None
+)
+WEBUI_AUTH_TRUSTED_NAME_HEADER = os.environ.get("WEBUI_AUTH_TRUSTED_NAME_HEADER", None)
 
 ####################################
 # WEBUI_SECRET_KEY
